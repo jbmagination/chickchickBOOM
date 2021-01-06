@@ -1,0 +1,242 @@
+<texte>
+<script/>
+<text name="footer_impressum" type="string">
+<![CDATA[ Impressum ]]>
+</text>
+<text name="footer_copyright" type="string">
+<![CDATA[ © 2000-2007 Nintendo und extra toxic. Alle Rechte vorbehalten. ]]>
+</text>
+<text name="intro_welcome" type="string">
+<![CDATA[ DAS IST CHICK CHICK BOOM IN DER ORIGINAL VERSION VON 2007.<br />WIR NENNEN ES RETRO VERSION, WEIL VIELE ALTE ERINNERUNGEN GEWECKT WERDEN :-)<br /><br />WIR WÜNSCHEN EUCH VIEL SPASS! ]]>
+</text>
+<text name="menu_feedback_title" type="string">FEEDBACK</text>
+<text name="menu_team_title" type="string">TEAMINFO</text>
+<text name="menu_downloads_title" type="string">DOWNLOADS</text>
+<text name="menu_hilfe_title" type="string">HILFE</text>
+<text name="teaminfo_namen_title" type="string">GIB DEN KÜKEN NAMEN:</text>
+<text name="teaminfo_1_names" type="string">Dein Team,Bogac,Steve,Ivica,Denis,Nora</text>
+<text name="teaminfo_2_names" type="string">Poster Bunny,Küken 1,Küken 2,Küken 3,Küken 4,Küken 5</text>
+<text name="teaminfo_rekorde_title" type="string">DEINE REKORDE:</text>
+<text name="teaminfo_rekorde_kills" type="string">Max. pro Spiel erledigte Küken (Profimodus)</text>
+<text name="teaminfo_rekorde_thunderbolt" type="string">Bester Angriff Blitz</text>
+<text name="teaminfo_rekorde_weight" type="string">Bester Angriff Gewicht</text>
+<text name="teaminfo_rekorde_bomb" type="string">Bester Angriff Bombe</text>
+<text name="teaminfo_rekorde_mushroom" type="string">Bester Angriff Pilz</text>
+<text name="teaminfo_rekorde_balloon" type="string">Bester Angriff Ballon</text>
+<text name="teaminfo_rekorde_highscore" type="string">Highscore:</text>
+<text name="teaminfo_rekorde_reset" type="string">Rekorde löschen</text>
+<text name="teaminfo_rekorde_resetnote" type="string">Willst du deine Rekorde wirklich löschen?</text>
+<text name="gameinfo_more" type="string">Mehr Info</text>
+<text name="downloads_title" type="string">Deine freigespielten Downloads:</text>
+<text name="downloads_bonus" type="string">Secret Download</text>
+<text name="downloads_bonusactivated" type="string">Secret Download freigeschaltet!</text>
+<text name="downloads_note" type="string">
+<![CDATA[ Probleme mit dem Download? Versuch’s noch mal mit ausgeschaltetem Popup-Blocker. ]]>
+</text>
+<text name="feedback_name" type="string">DEIN NAME:</text>
+<text name="feedback_email" type="string">DEINE E-MAIL ADRESSE: (optional)</text>
+<text name="feedback_message" type="string">Schreibe uns, was dir an CHICK CHICK BOOM gefällt und was dich stört. Wir freuen uns über jede Nachricht von dir!</text>
+<text name="feedback_danke" type="string">Danke! Deine Nachricht wurde erfolgreich versendet.</text>
+<text name="help_title" type="string">Hilfe</text>
+<text name="help_body" type="string">
+<![CDATA[ Bewege die Maus über die verschiedenen Bereiche, um mehr zu erfahren. ]]>
+</text>
+<text name="help_chick_title" type="string">Deine Küken</text>
+<text name="help_chick_body" type="string">
+<![CDATA[ Du besitzt fünf Küken, die du vor Poster Bunny’s Angriffen schützen musst. Hast du dein letztes Küken verloren, ist das Spiel zu Ende. ]]>
+</text>
+<text name="help_egg_title" type="string">Das Ei</text>
+<text name="help_egg_body" type="string">
+<![CDATA[ Zeichne das aktive Symbol auf dem Ei nach, um den Angriff oder die Verteidigung auszulösen. Je genauer deine Zeichnung ist, desto stärker ist der Effekt. ]]>
+</text>
+<text name="help_enemychicks_title" type="string">Gegnerische Küken</text>
+<text name="help_enemychicks_body" type="string">
+<![CDATA[ Erledige die gegnerischen Küken mit Hilfe deiner Angriffe. ]]>
+</text>
+<text name="help_defense_title" type="string">Deine Verteidigung</text>
+<text name="help_defense_body" type="string">
+<![CDATA[ Auf der linken Seite findest du die Symbole, mit denen du deine Küken vor gegnerischen Angriffen verteidigen kannst. ]]>
+</text>
+<text name="help_offense_title" type="string">Deine Angriffe</text>
+<text name="help_offense_body" type="string">
+<![CDATA[ Rechts von dem Ei befinden sich die Angriffs-Symbole. ]]>
+</text>
+<text name="help_bomb_title" type="string">Die Bombe</text>
+<text name="help_bomb_body" type="string">
+<![CDATA[ Wirf eine Bombe auf den Gegner. Die Explosion kann mehrere Küken treffen. ]]>
+</text>
+<text name="help_weight_title" type="string">Das Gewicht</text>
+<text name="help_weight_body" type="string">
+<![CDATA[ Lass ein großes Gewicht auf die Küken fallen. ]]>
+</text>
+<text name="help_attract_title" type="string">Die Richtungspfeile</text>
+<text name="help_attract_body" type="string">
+<![CDATA[ Schicke deine Küken nach links oder rechts, um Attacken wie Gewicht oder Bombe auszuweichen. ]]>
+</text>
+<text name="help_mushrooms_title" type="string">Der Pilz</text>
+<text name="help_mushrooms_body" type="string">
+<![CDATA[ Lass giftige Pilze bei deinem Gegner sprießen. Essen die Küken davon, werden sie träge und verlieren stetig Energie. ]]>
+</text>
+<text name="help_mushroomkiller_title" type="string">Die Medizin</text>
+<text name="help_mushroomkiller_body" type="string">
+<![CDATA[ Heile die Küken, die von den giftigen Pilzen gegessen haben ]]>
+</text>
+<text name="help_cloud_title" type="string">Die Wolke</text>
+<text name="help_cloud_body" type="string">
+<![CDATA[ Gelegentlich zieht eine Wolke vorbei. Wenn es regnet, kommen Regenwürmer aus der Erde, die den Küken als Nahrung dienen. Außerdem wird die Lunte der Bombe gelöscht. ]]>
+</text>
+<text name="help_thunderbolt_title" type="string">Der Blitz</text>
+<text name="help_thunderbolt_body" type="string">
+<![CDATA[ Blitzattacken sind nur möglich, wenn die Wolke sich grau verfärbt. Achte darauf, dass du nicht deine eigenen Küken triffst. ]]>
+</text>
+<text name="help_arrester_title" type="string">Der Blitzableiter</text>
+<text name="help_arrester_body" type="string">
+<![CDATA[ Der Blitzableiter schützt deine Küken vor Blitzattacken. ]]>
+</text>
+<text name="help_balloon_title" type="string">Der Ballon</text>
+<text name="help_balloon_body" type="string">
+<![CDATA[ Lass einen Ballon steigen. Hüpft ein Küken in den Korb, fliegt es mit. Verlässt der Ballon das Spielfeld, ist das Küken für immer verloren. ]]>
+</text>
+<text name="help_balloonkiller_title" type="string">Der Sandsack</text>
+<text name="help_balloonkiller_body" type="string">
+<![CDATA[ Hänge Sandsäcke an den Ballon. Damit ziehst du ihn wieder auf die Wiese herunter, so dass dein Küken aussteigen kann. ]]>
+</text>
+<text name="game_level" type="string">Level</text>
+<text name="game_start" type="string">Start</text>
+<text name="game_restart" type="string">Nochmal spielen</text>
+<text name="game_gameover" type="string">GAME OVER</text>
+<text name="game_backtomenu" type="string">Zum Menü</text>
+<text name="game_next" type="string">Weiter</text>
+<text name="game_finished_hl" type="string">
+<![CDATA[ Level geschafft! ]]>
+</text>
+<text name="game_finished_body" type="string">
+<![CDATA[ Hol dir deine Belohnung später im Downloadcenter ab. ]]>
+</text>
+<text name="game_progress" type="string">Spielfortschritt</text>
+<text name="game_reset" type="string">Spielfortschritt löschen</text>
+<text name="game_resetnote" type="string">
+<![CDATA[ Wirklich löschen? Dein Spiel beginnt dann wieder bei Level 1. ]]>
+</text>
+<text name="game_intro_start" type="string">
+<![CDATA[ Erledige die Küken von Poster Bunny! ]]>
+</text>
+<text name="game_intro_prize" type="string">
+<![CDATA[ Belohnung: Ein Wallpaper von ]]>
+</text>
+<text name="game_body_profi" type="string">
+<![CDATA[ Dein Ziel: So lange wie möglich durchhalten und deine eigenen Rekorde schlagen! Dein Gegner bekommt für jedes verlorene Küken ein neues. ]]>
+</text>
+<text name="game_body_profinote" type="string">
+<![CDATA[ Du hast alle 10 Level geschafft! Jetzt geht es mit dem Profimodus weiter. ]]>
+</text>
+<text name="game_new_record" type="string">Neuer Rekord!</text>
+<text name="game_bonus_sprinkler" type="string">Rasensprenger aktiviert!</text>
+<text name="game_bonus_defusekit" type="string">Bomben-Entschärfer aktiviert!</text>
+<text name="game_bonus_multismash" type="string">Double-Smash aktiviert!</text>
+<text name="game_bonus_helm" type="string">Schutzhelm aktiviert!</text>
+<text name="game_bonus_energy" type="string">Extra-Energie aktiviert!</text>
+<text name="game_help_baddraw" type="string">
+<![CDATA[ Deine Zeichnung war leider zu ungenau, versuch’s noch einmal. ]]>
+</text>
+<text name="game_help_ready" type="string">Lektion vorbei – jetzt bist du auf dich allein gestellt!</text>
+<text name="game_l1_subtitle" type="string">Eine solide Basis</text>
+<text name="game_l1_help_1" type="string">
+<![CDATA[ Klicke auf das Gewichts-Symbol. ]]>
+</text>
+<text name="game_l1_help_2" type="string">
+<![CDATA[ Male die Vorlage ohne abzusetzen nach. Je genauer du malst, desto besser wird dein Angriff. ]]>
+</text>
+<text name="game_l1_help_3" type="string">
+<![CDATA[ Sehr gut! Dein Angriff wird ausgelöst. ]]>
+</text>
+<text name="game_l1_help_4" type="string">
+<![CDATA[ Klicke auf das Bomben-Symbol. ]]>
+</text>
+<text name="game_l1_help_5" type="string">
+<![CDATA[ Du musst mindestens 70% erreichen, sonst wird dein Angriff nicht gewertet. ]]>
+</text>
+<text name="game_l1_help_6" type="string">
+<![CDATA[ Sehr gut! Dein Angriff wird ausgelöst. ]]>
+</text>
+<text name="game_l1_help_7" type="string">
+<![CDATA[ Klicke auf einen Richtungspfeil. ]]>
+</text>
+<text name="game_l1_help_8" type="string">
+<![CDATA[ Damit schickst du deine Küken in Pfeilrichtung. ]]>
+</text>
+<text name="game_l1_help_9" type="string">
+<![CDATA[ So weichst du den Angriffen deines Gegners aus. ]]>
+</text>
+<text name="game_l1_help_10" type="string">
+<![CDATA[ Das war’s für’s Erste – jetzt zeig’s Poster Bunny! ]]>
+</text>
+<text name="game_l2_subtitle" type="string">Es wird nass!</text>
+<text name="game_l2_help_1" type="string">
+<![CDATA[ Gelegentlich zieht eine Wolke vorbei. Wenn es regnet, kommen Regenwürmer aus der Erde, die den Küken Energie spenden. ]]>
+</text>
+<text name="game_l2_help_2" type="string">
+<![CDATA[ Bei Regen wird die Lunte der Bombe gelöscht. ]]>
+</text>
+<text name="game_l3_subtitle" type="string">1.000.000 Volt</text>
+<text name="game_l3_help_1" type="string">
+<![CDATA[ Ein Blitz kann nur aktiviert werden, wenn die Wolke grau ist. Klicke auf das Symbol, wenn es so weit ist. ]]>
+</text>
+<text name="game_l3_help_2" type="string">
+<![CDATA[ Achte darauf, dass die Wolke sich auf der gegnerischen Seite befindet. ]]>
+</text>
+<text name="game_l3_help_3" type="string">
+<![CDATA[ Sehr gut! Dein Angriff wird ausgelöst. ]]>
+</text>
+<text name="game_l3_help_4" type="string">
+<![CDATA[ Mit dem Blitzableiter wehrst du Blitzattacken ab. ]]>
+</text>
+<text name="game_l4_subtitle" type="string">Gute Besserung!</text>
+<text name="game_l4_help_1" type="string">
+<![CDATA[ Lass giftige Pilze auf der Wiese wachsen. ]]>
+</text>
+<text name="game_l4_help_2" type="string">
+<![CDATA[ Fressen die Küken davon, werden sie langsamer und verlieren stetig Energie. ]]>
+</text>
+<text name="game_l4_help_3" type="string">
+<![CDATA[ Sehr gut! Dein Angriff wird ausgelöst. ]]>
+</text>
+<text name="game_l4_help_4" type="string">
+<![CDATA[ Heile deine Küken mit der Medizin. ]]>
+</text>
+<text name="game_l5_subtitle" type="string">In luftigen Höhen</text>
+<text name="game_l5_help_1" type="string">
+<![CDATA[ Schicke ein Küken per Ballon gen Himmel. ]]>
+</text>
+<text name="game_l5_help_2" type="string">
+<![CDATA[ Einmal ausser Sichtweite geflogen, ist das Küken für immer verloren. ]]>
+</text>
+<text name="game_l5_help_3" type="string">
+<![CDATA[ Sehr gut! Dein Angriff wird ausgelöst. ]]>
+</text>
+<text name="game_l5_help_4" type="string">
+<![CDATA[ Hänge Sandsäcke an den Ballon, wenn eines deiner Küken davonfliegt. ]]>
+</text>
+<text name="game_l6_subtitle" type="string">Schutzhelm</text>
+<text name="game_l6_help_1" type="string">
+<![CDATA[ TIPP: Erledigst du mehrere gegnerische Küken gleichzeitig, bekommt eines deiner Küken einen Helm und ist damit für eine Zeit lang besser schützt. ]]>
+</text>
+<text name="game_l7_subtitle" type="string">Double-Smash</text>
+<text name="game_l7_help_1" type="string">
+<![CDATA[ TIPP: Triff mit einem Gewicht mehrere Küken gleichzeitig, und du bekommst zwei Gewichte für deinen nächsten Angriff. ]]>
+</text>
+<text name="game_l8_subtitle" type="string">Extra-Energie</text>
+<text name="game_l8_help_1" type="string">
+<![CDATA[ TIPP: Scheint die Sonne, dann zeichne schnell das Symbol für die Medizin. Deine Küken bekommen sofort einen Energiebonus. ]]>
+</text>
+<text name="game_l9_subtitle" type="string">Rasensprenger</text>
+<text name="game_l9_help_1" type="string">
+<![CDATA[ TIPP: Klicke schnell auf den Rasensprenger, sobald er auftaucht. Damit lockst du zusätzliche Regenwürmer an, die deinen Küken Energie spenden. ]]>
+</text>
+<text name="game_l10_subtitle" type="string">“Bombe wurde entschärft!“</text>
+<text name="game_l10_help_1" type="string">
+<![CDATA[ TIPP: Triffst du mit einer Bombe alle fünf gegnerische Küken, wird eines deiner Küken zum Bomben-Entschärfer. ]]>
+</text>
+<text name="game_l11_subtitle" type="string">Profimodus</text>
+<text name="game_l11_name" type="string"/>
+</texte>

@@ -1,0 +1,7 @@
+<config>
+<script/>
+<path name="path" type="string">retro/data/</path>
+<movie name="loader" type="string">loader.swf</movie>
+<movie name="stage" type="string">stage.swf</movie>
+<movie name="menu" type="string">menu.swf</movie>
+</config>

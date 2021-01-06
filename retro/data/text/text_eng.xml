@@ -1,0 +1,243 @@
+<texte>
+<script/>
+<text name="footer_impressum" type="string">
+<![CDATA[ Terms of use ]]>
+</text>
+<text name="footer_copyright" type="string">
+<![CDATA[ © 2000-2007 Nintendo and extra toxic. All rights reserved. ]]>
+</text>
+<text name="intro_welcome" type="string">
+<![CDATA[ THIS IS HOW CHICK CHICK BOOM LOOKED IN ITS ORIGINAL VERSION BACK IN 2007.<br />WE CALL IT RETRO-VERSION NOW, SINCE IT REALLY HAS A LOT OF RETRO FOR US :)<br /><br />HAVE FUN DIVING INTO THE ROOTS! ]]>
+</text>
+<text name="menu_feedback_title" type="string">FEEDBACK</text>
+<text name="menu_team_title" type="string">TEAMINFO</text>
+<text name="menu_downloads_title" type="string">DOWNLOADS</text>
+<text name="menu_hilfe_title" type="string">HELP</text>
+<text name="teaminfo_namen_title" type="string">NAME THE CHICKS:</text>
+<text name="teaminfo_1_names" type="string">Your team,Bogac,Steve,Ivica,Denis,Nora</text>
+<text name="teaminfo_2_names" type="string">Poster Bunny,Chick 1,Chick 2,Chick 3,Chick 4,Chick 5</text>
+<text name="teaminfo_rekorde_title" type="string">YOUR RECORDS:</text>
+<text name="teaminfo_rekorde_kills" type="string">Max. # of knocked out chicks per game (pro mode)</text>
+<text name="teaminfo_rekorde_thunderbolt" type="string">Best attack: lightning</text>
+<text name="teaminfo_rekorde_weight" type="string">Best attack: weight</text>
+<text name="teaminfo_rekorde_bomb" type="string">Best attack: bomb</text>
+<text name="teaminfo_rekorde_mushroom" type="string">Best attack: toadstool</text>
+<text name="teaminfo_rekorde_balloon" type="string">Best attack: balloon</text>
+<text name="teaminfo_rekorde_highscore" type="string">High score:</text>
+<text name="teaminfo_rekorde_reset" type="string">Erase records</text>
+<text name="teaminfo_rekorde_resetnote" type="string">Do you really want to erase your records?</text>
+<text name="gameinfo_more" type="string">More info</text>
+<text name="downloads_title" type="string">Downloads achieved:</text>
+<text name="downloads_bonus" type="string">Secret download</text>
+<text name="downloads_bonusactivated" type="string">Secret download acquired!</text>
+<text name="downloads_note" type="string">
+<![CDATA[ Problems with the download? Turn off your browser’s pop-up blocker and try again. ]]>
+</text>
+<text name="feedback_name" type="string">YOUR NAME:</text>
+<text name="feedback_email" type="string">YOUR EMAIL ADDRESS: (optional)</text>
+<text name="feedback_message" type="string">Let us know what you liked and didn’t like about CHICK CHICK BOOM. We’re looking forward to your feedback!</text>
+<text name="feedback_danke" type="string">Thank you! Your message has been sent successfully.</text>
+<text name="help_title" type="string">Help</text>
+<text name="help_body" type="string">
+<![CDATA[ Move the mouse over the sensitive areas to get more information. ]]>
+</text>
+<text name="help_chick_title" type="string">Your chicks</text>
+<text name="help_chick_body" type="string">
+<![CDATA[ You have to protect your five chicks from Poster Bunny’s attacks. The game is over as soon as your last chick is knocked out. ]]>
+</text>
+<text name="help_egg_title" type="string">The egg</text>
+<text name="help_egg_body" type="string">
+<![CDATA[ Trace the symbol on the egg to activate your attack or defense. The better your drawing is, the stronger your attack or defense. ]]>
+</text>
+<text name="help_enemychicks_title" type="string">Poster Bunny’s chicks</text>
+<text name="help_enemychicks_body" type="string">
+<![CDATA[ Knock out the opposing chicks with your attacks. ]]>
+</text>
+<text name="help_defense_title" type="string">Your defenses</text>
+<text name="help_defense_body" type="string">
+<![CDATA[ On the left side, you will find the symbols you can use to protect your chicks from attacks. ]]>
+</text>
+<text name="help_offense_title" type="string">Your attacks</text>
+<text name="help_offense_body" type="string">
+<![CDATA[ On the right side, you will find the attack symbols. ]]>
+</text>
+<text name="help_bomb_title" type="string">The bomb</text>
+<text name="help_bomb_body" type="string">
+<![CDATA[ Throw a bomb over the fence. The explosion can hit several chicks. ]]>
+</text>
+<text name="help_weight_title" type="string">The weight</text>
+<text name="help_weight_body" type="string">
+<![CDATA[ Make a huge weight fall upon the chicks. ]]>
+</text>
+<text name="help_attract_title" type="string">The direction arrows</text>
+<text name="help_attract_body" type="string">
+<![CDATA[ Send your chicks to the right or left corner to save them from attacks by a bomb or a weight. ]]>
+</text>
+<text name="help_mushrooms_title" type="string">The toadstool</text>
+<text name="help_mushrooms_body" type="string">
+<![CDATA[ Make poisonous toadstools grow. Chicks that eat these become sluggish, with energy draining continuously. ]]>
+</text>
+<text name="help_mushroomkiller_title" type="string">The medicine</text>
+<text name="help_mushroomkiller_body" type="string">
+<![CDATA[ Use the medicine to heal chicks poisoned by the toadstools. ]]>
+</text>
+<text name="help_cloud_title" type="string">The cloud</text>
+<text name="help_cloud_body" type="string">
+<![CDATA[ Occasionally, clouds will appear and start to rain. When this happens, energy spending earthworms will pop up. The rain will also extinguish bomb fuses. ]]>
+</text>
+<text name="help_thunderbolt_title" type="string">The lightning</text>
+<text name="help_thunderbolt_body" type="string">
+<![CDATA[ When the color of the clouds change to grey, lightning attacks are probable. Make sure you don’t strike your own chicks with the lightning. ]]>
+</text>
+<text name="help_arrester_title" type="string">The lightning rod</text>
+<text name="help_arrester_body" type="string">
+<![CDATA[ Use the lightning rod to protect your chicks from lightning attacks. ]]>
+</text>
+<text name="help_balloon_title" type="string">The balloon</text>
+<text name="help_balloon_body" type="string">
+<![CDATA[ If a chick gets into a balloon and floats out of sight, the chick will be lost forever. ]]>
+</text>
+<text name="help_balloonkiller_title" type="string">The sandbag</text>
+<text name="help_balloonkiller_body" type="string">
+<![CDATA[ Using sandbags, weigh the balloon down until your chick can get out. ]]>
+</text>
+<text name="game_level" type="string">Level</text>
+<text name="game_start" type="string">Start</text>
+<text name="game_restart" type="string">Play again</text>
+<text name="game_gameover" type="string">GAME OVER</text>
+<text name="game_backtomenu" type="string">Back to menu</text>
+<text name="game_next" type="string">Continue</text>
+<text name="game_finished_hl" type="string">
+<![CDATA[ Level accomplished! ]]>
+</text>
+<text name="game_finished_body" type="string">
+<![CDATA[ You can pick up your reward later at the download center. ]]>
+</text>
+<text name="game_progress" type="string">Game progress</text>
+<text name="game_reset" type="string">Erase game progress</text>
+<text name="game_resetnote" type="string">
+<![CDATA[ Really erase game progress? You’ll have to start all over again. ]]>
+</text>
+<text name="game_intro_start" type="string">
+<![CDATA[ Knock Poster Bunny’s chicks out! ]]>
+</text>
+<text name="game_intro_prize" type="string">
+<![CDATA[ Reward: A wallpaper of ]]>
+</text>
+<text name="game_body_profi" type="string">
+<![CDATA[ Your goal: Hang in there as long as you can and beat your own records! Your opponent receives a new chick for each one he loses. ]]>
+</text>
+<text name="game_body_profinote" type="string">
+<![CDATA[ You’ve solved all 10 levels! Now, continue on to the pro-mode. ]]>
+</text>
+<text name="game_new_record" type="string">New record!</text>
+<text name="game_bonus_sprinkler" type="string">Sprinkler activated!</text>
+<text name="game_bonus_defusekit" type="string">Bomb defusing chick activated!</text>
+<text name="game_bonus_multismash" type="string">Double smash activated!</text>
+<text name="game_bonus_helm" type="string">Hardhat activated!</text>
+<text name="game_bonus_energy" type="string">Extra energy activated!</text>
+<text name="game_help_baddraw" type="string">
+<![CDATA[ Your drawing was not precise enough. Please try again. ]]>
+</text>
+<text name="game_help_ready" type="string">Lesson over... now, show us what you have learned!</text>
+<text name="game_l1_subtitle" type="string">A solid basis</text>
+<text name="game_l1_help_1" type="string">
+<![CDATA[ Click on the weight symbol. ]]>
+</text>
+<text name="game_l1_help_2" type="string">
+<![CDATA[ Trace the template with a single line. The better you draw, the stronger is your attack. ]]>
+</text>
+<text name="game_l1_help_3" type="string">
+<![CDATA[ Very good! Your attack will be executed now. ]]>
+</text>
+<text name="game_l1_help_4" type="string">
+<![CDATA[ Click on the bomb symbol. ]]>
+</text>
+<text name="game_l1_help_5" type="string">
+<![CDATA[ You must achieve at least 70%. Otherwise, your attack will not be executed. ]]>
+</text>
+<text name="game_l1_help_6" type="string">
+<![CDATA[ Very good! Your attack will be executed now. ]]>
+</text>
+<text name="game_l1_help_7" type="string">
+<![CDATA[ Click on a direction arrow. ]]>
+</text>
+<text name="game_l1_help_8" type="string">
+<![CDATA[ Now you can send your chicks to the right or left corner. ]]>
+</text>
+<text name="game_l1_help_9" type="string">
+<![CDATA[ By doing this, you save the chicks from attacks by Poster Bunny. ]]>
+</text>
+<text name="game_l1_help_10" type="string">
+<![CDATA[ That’s it for now. Now, cut down Poster Bunny! ]]>
+</text>
+<text name="game_l2_subtitle" type="string">It’s raining!</text>
+<text name="game_l2_help_1" type="string">
+<![CDATA[ Occasionally, clouds will appear and start to rain. When this happens, energy spending earthworms will pop up. ]]>
+</text>
+<text name="game_l2_help_2" type="string">
+<![CDATA[ The rain will also extinguish bomb fuses. ]]>
+</text>
+<text name="game_l3_subtitle" type="string">1,000,000 volts</text>
+<text name="game_l3_name" type="string">Pokémon Ranger</text>
+<text name="game_l3_help_1" type="string">
+<![CDATA[ When the color of the clouds change to grey, lightning attacks are probable. Once this happens, select the lightning symbol. ]]>
+</text>
+<text name="game_l3_help_2" type="string">
+<![CDATA[ Make sure the cloud is on the other side. ]]>
+</text>
+<text name="game_l3_help_3" type="string">
+<![CDATA[ Very good! Your attack will be executed now. ]]>
+</text>
+<text name="game_l3_help_4" type="string">
+<![CDATA[ Use the lightning rod to protect your chicks from lightning attacks. ]]>
+</text>
+<text name="game_l4_subtitle" type="string">Get well!</text>
+<text name="game_l4_help_1" type="string">
+<![CDATA[ Make poisonous toadstools grow. ]]>
+</text>
+<text name="game_l4_help_2" type="string">
+<![CDATA[ Chicks that eat these become sluggish, with energy draining continuously. ]]>
+</text>
+<text name="game_l4_help_3" type="string">
+<![CDATA[ Very good! Your attack will be executed now. ]]>
+</text>
+<text name="game_l4_help_4" type="string">
+<![CDATA[ Use the medicine to heal chicks poisoned by the toadstools. ]]>
+</text>
+<text name="game_l5_subtitle" type="string">High in the sky</text>
+<text name="game_l5_help_1" type="string">
+<![CDATA[ Once in a balloon, a chick will float high into the sky. ]]>
+</text>
+<text name="game_l5_help_2" type="string">
+<![CDATA[ If a chick gets into a balloon and floats out of sight, the chick will be lost forever. ]]>
+</text>
+<text name="game_l5_help_3" type="string">
+<![CDATA[ Very good! Your attack will be executed now. ]]>
+</text>
+<text name="game_l5_help_4" type="string">
+<![CDATA[ Using sandbags, weigh the balloon down until your chick can get out. ]]>
+</text>
+<text name="game_l6_subtitle" type="string">Hardhat</text>
+<text name="game_l6_help_1" type="string">
+<![CDATA[ TIP: If you knock out several chicks with one attack, one of your chicks will receive a hardhat, which will protect the chick against attacks for a short time. ]]>
+</text>
+<text name="game_l7_subtitle" type="string">Double smash</text>
+<text name="game_l7_help_1" type="string">
+<![CDATA[ TIP: Using a single weight, hit more than one chick at once and you’ll receive two weights for your next attack. ]]>
+</text>
+<text name="game_l8_subtitle" type="string">Extra energy</text>
+<text name="game_l8_help_1" type="string">
+<![CDATA[ TIP: When the sun is shining, quickly draw the medicine symbol and your chicks will get an immediate boost of energy. ]]>
+</text>
+<text name="game_l9_subtitle" type="string">Sprinkler</text>
+<text name="game_l9_help_1" type="string">
+<![CDATA[ TIP: Whenever a sprinkler appears, click it, as it will attract earthworms for your chicks. ]]>
+</text>
+<text name="game_l10_subtitle" type="string">"Bomb has been defused!"</text>
+<text name="game_l10_help_1" type="string">
+<![CDATA[ TIP: If your bomb hits all five opposing chicks, one of your chicks will receive a bomb defuser kit to use for a while. ]]>
+</text>
+<text name="game_l11_subtitle" type="string">Pro mode</text>
+<text name="game_l11_name" type="string"/>
+</texte>
