@@ -1,0 +1,462 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<text>
+	<navigation>
+		<topic topic="topic_01" />
+		<topic topic="topic_02" />
+		<topic topic="topic_03" />
+		<topic topic="topic_04" />
+		<topic topic="topic_05" />
+	</navigation>
+
+	
+	<!------------------------------------------------------------------------------------------------------------------>
+	<!-- NEWS																									  -->
+	<!------------------------------------------------------------------------------------------------------------------>
+
+	<news_archive latest="News:">
+		<news>
+			<nav><![CDATA[Spiele die Retro-Version jetzt!]]></nav>
+			<headline><![CDATA[Back To The Roots!]]></headline>
+			<content><![CDATA[Pünktlich zu Ostern haben wir die Original-Version von chick chick BOOM ausgepackt...]]></content>
+			<link><![CDATA[retro]]></link>
+		</news>
+		<news>
+			<nav><![CDATA[chick chick BOOM Demo]]></nav>
+			<headline><![CDATA[Demo und Trailer!]]></headline>
+			<content><![CDATA[Die Demo ist ab Freitag den 18.02.2011 im Wii-Shop-Kanal erhältlich! <br />Pünktlich dazu gibt es den neuen Trailer:]]></content>
+			<link><![CDATA[trailer]]></link>
+		</news>
+		<news>
+			<nav><![CDATA[Jump 'n' Run Adventskalender]]></nav>
+			<headline><![CDATA[Chubby kommt zurück!]]></headline>
+			<content><![CDATA[Ab 1. Dezember gibt es mit Mission in Snowdriftland jeden Tag ein Jump'n'Run Level zu spielen. Viel Spass!]]></content>
+			<link>http://www.mission-in-snowdriftland.com/</link>
+		</news>
+	</news_archive>
+			
+	<!------------------------------------------------------------------------------------------------------------------>
+	<!-- CONTENT																									  -->
+	<!------------------------------------------------------------------------------------------------------------------>
+
+	<content>
+	
+		<!------------------------------------------------------------------------------------------------------------------>
+		<!-- HOME -->
+		<!------------------------------------------------------------------------------------------------------------------>
+		
+		<topic label="topic_01">
+			<nav>Home</nav>
+			
+					
+			<review_title>Was sagt die Presse?</review_title>
+			<review_total><![CDATA[Durchschnittliche<br />Review Wertung]]></review_total>
+			<review_score>85</review_score>
+			<btn_review><![CDATA[Alle Reviews]]></btn_review>
+			
+			<shop_title><![CDATA[Tons of Style]]></shop_title>
+			<shop_sub><![CDATA[T-Shirts und mehr im<br />chick chick BOOM Design!]]></shop_sub>
+			<btn_shop><![CDATA[Zum Shop]]></btn_shop>
+			
+			<news_title>News</news_title>
+<!--			<btn_news>Mehr Info</btn_news> -->
+			<btn_news>Jetzt spielen!</btn_news>
+			
+			
+			<howtobuy_title><![CDATA[Spiel<br />kaufen?]]></howtobuy_title>
+			<howtobuy_title><![CDATA[Spiel<br />kaufen?]]></howtobuy_title>
+			<btn_guide><![CDATA[So geht's]]></btn_guide>
+			<btn_guide_link><![CDATA[http://www.nintendo.de/NOE/de_DE/systems/einfuehrungsvideos_12523.html]]></btn_guide_link>
+			
+			<newsletter_title>Melde dich bei unserem Newsletter an!</newsletter_title>
+			<newsletter_input><![CDATA[Deine E-Mail Adresse]]></newsletter_input>
+			<newsletter_desc><![CDATA[Melde dich zum tons of bits Newsletter an!]]></newsletter_desc>
+			<newsletter_send>Newsletter abonnieren</newsletter_send>
+			<newsletter_thanks><![CDATA[Danke!<br />Du bist jetzt für den tons of bits Newsletter angemeldet!]]></newsletter_thanks>
+			<newsletter_error><![CDATA[Du hast den Newsletter<br />bereits abonniert.]]></newsletter_error>
+			<btn_newsletter>Newsletter</btn_newsletter>
+			<btn_newsletter_link>newsletter</btn_newsletter_link>
+	
+
+			
+			<!-- hot picks -->
+			
+			<hotpicks>Hot Picks</hotpicks>
+			
+			
+			<hotpicks_0_info><![CDATA[Mach mit beim Gewinn-<br />spiel auf Nintendolife<br />und gewinne 1 von 10<br />chick chick BOOM Spielen<br />+ 1 persönliches artwork!]]></hotpicks_0_info>
+			<hotpicks_0_url>http://www.nintendolife.com/news/2010/11/competition_chick_chick_boom_all_pal_regions</hotpicks_0_url>
+						
+			
+			<hotpicks_1_info><![CDATA[Ein Silber-Award<br />und 8.5 von 10 Punkten!<br />Danke Wii Insider!<br /><br />Hier geht's zur Review...]]></hotpicks_1_info>
+			<hotpicks_1_url>http://www.wiiinsider.de/spiele/chick-chick-boom/testbericht.html</hotpicks_1_url>
+			
+			
+			<hotpicks_2_info><![CDATA[Die erste review zu<br />chick chick BOOM steht!<br />8 von 10 Punkten!<br />Wir sagen Danke :)<br />Zum Review-Artikel...]]></hotpicks_2_info>
+			<hotpicks_2_url>http://www.nintendo-online.de/artikel/reviews/1227/chick-chick-boom/</hotpicks_2_url>
+			
+			
+			<hotpicks_3_info><![CDATA[Auf rawiioli.de könnt<br />ihr sehen, wie wir<br />chick chick BOOM im<br />Multiplayer-Modus<br />spielen...]]></hotpicks_3_info>
+			<hotpicks_3_url>http://www.rawiioli.de/archives/4919</hotpicks_3_url>
+	
+			<video_1>http://www.youtube.com/v/DAIWfFCLaJk?fs=0&amp;hl=de_DE&amp;autoplay=0&amp;rel=1</video_1>
+			<video_title_1>Arena: Stadt</video_title_1>
+			
+			<video_2>http://www.youtube.com/v/e0WinONjmXY?fs=0&amp;hl=de_DE&amp;autoplay=0&amp;rel=1</video_2>
+			<video_title_2>Arena: Schiff</video_title_2>
+			
+			<video_3>http://www.youtube.com/v/y-iOKfiVdd4?fs=0&amp;hl=de_DE&amp;autoplay=0&amp;rel=1</video_3>
+			<video_title_3>Arena: Spukwald</video_title_3>
+			
+			<video_4>http://www.youtube.com/v/JWG7AVooqzU?fs=0&amp;hl=de_DE&amp;autoplay=0&amp;rel=1</video_4>
+			<video_title_4>Video Review</video_title_4>
+	
+		</topic>
+		
+		<!------------------------------------------------------------------------------------------------------------------>
+		<!-- ABOUT -->
+		<!------------------------------------------------------------------------------------------------------------------>
+		
+		<topic label="topic_02">
+			<nav>Das Spiel</nav>
+			
+			<nav_0>Info</nav_0>
+			<nav_1>Attacken</nav_1>
+			<nav_2>Teams</nav_2>
+			<nav_3>Arenen</nav_3>
+			<nav_4>Spielmodi</nav_4>
+			
+			<info_boom><![CDATA[BOOM!]]></info_boom>
+			<info_left><![CDATA[Fünf Küken auf deiner Seite...]]></info_left>
+			<info_right><![CDATA[...fünf Küken auf der anderen.]]></info_right>
+			<info_body1><![CDATA[Besiege das gegnerische Küken-Team, aber nicht einfach nur so!<br />In chick chick BOOM wirfst du mit alten Klavieren, rosa Elefanten und<br />Sumo-Küken oder rufst schleimige Riesenquallen und echte UFOs herbei.]]></info_body1>
+			<info_body2><![CDATA[Zeichne Linien in die Arena, um gegnerische Attacken abzuwehren -<br />es kommt auf Tinte, Kreativität und Timing an! Weitere Unterstützung bekommst du von einem Maiskolben und einer Piñata. Echt jetzt!]]></info_body2>
+			<info_body3><![CDATA[Spiele alleine oder mit Freunden – zusammen oder gegeneinander!<br />Für Abwechslung sorgen dabei mehrere Spielmodi und unterschiedliche Arenen mit ihren Spezial-Attacken.]]></info_body3>
+			
+			<info_update><![CDATA[Updates folgen in Kürze!]]></info_update>
+			
+			<!-- Attacken -->
+			
+			<att_bomb><![CDATA[Bombe]]></att_bomb>
+			<att_weight><![CDATA[Gewicht]]></att_weight>
+			<att_plant><![CDATA[Pflanze]]></att_plant>
+			<att_lightning><![CDATA[Blitz]]></att_lightning>
+			<att_ufo><![CDATA[UFO]]></att_ufo>
+			<att_seemonster><![CDATA[See-<br />Monster]]></att_seemonster>
+			<att_ghost><![CDATA[Geist]]></att_ghost>
+
+			<att_1><![CDATA[Hummelbombe]]></att_1>
+			<att_1_a><![CDATA[Explodiert nach<br />kurzer Zeit!]]></att_1_a>
+			<att_1_b><![CDATA[Schirme die Explosion mit deiner Linie ab.]]></att_1_b>
+			
+			<att_2><![CDATA[Knallfrosch]]></att_2>
+			<att_2_a><![CDATA[Verspritzt Säure<br />bei Explosion!]]></att_2_a>
+			<att_2_b><![CDATA[Achtung, Säure entzieht deinen Küken Energie.]]></att_2_b>
+			
+			<att_3><![CDATA[Käferkracher]]></att_3>
+			<att_3_a><![CDATA[Aktiviert zusätzlich<br />zwei Mini-Bomben!]]></att_3_a>
+			<att_3_b><![CDATA[Die Minibomben explodieren nacheinander.]]></att_3_b>
+			
+			<att_4><![CDATA[Gewicht]]></att_4>
+			<att_4_a><![CDATA[Macht Küken platt!]]></att_4_a>
+			<att_4_b><![CDATA[Die Linie muß mindestens so breit wie das Gewicht sein.]]></att_4_b>
+			
+			<att_5><![CDATA[Kükenkleber]]></att_5>
+			<att_5_a><![CDATA[Fixiert Küken,<br />bevor es fällt!]]></att_5_a>
+			<att_5_b><![CDATA[Der Kleber hält<br />deine Küken fest.]]></att_5_b>
+			
+			<att_6><![CDATA[Sumoküken]]></att_6>
+			<att_6_a><![CDATA[Hüpft nach<br />Aufprall nochmal!]]></att_6_a>
+			<att_6_b><![CDATA[Das Sumoküken fällt immer zweimal.]]></att_6_b>
+			
+			<att_7><![CDATA[Beißkraut]]></att_7>
+			<att_7_a><![CDATA[Schnappt nach Küken!]]></att_7_a>
+			<att_7_b><![CDATA[Die Pflanze wächst an der Linie nach oben.]]></att_7_b>
+			
+			<att_8><![CDATA[Skorpionfarn]]></att_8>
+			<att_8_a><![CDATA[Vergiftet<br />gebissene Küken!]]></att_8_a>
+			<att_8_b><![CDATA[Vergiftete Küken<br />sind empfindlicher<br />gegen Schaden.]]></att_8_b>
+			
+			<att_9><![CDATA[Feuerblume]]></att_9>
+			<att_9_a><![CDATA[Verwirrt<br />gebissene Küken!]]></att_9_a>
+			<att_9_b><![CDATA[Verwirrte Küken werden von Gefahr angezogen.]]></att_9_b>
+			
+			<att_10><![CDATA[Blitz]]></att_10>
+			<att_10_a><![CDATA[Küken bekommen<br />einen Stromschlag!]]></att_10_a>
+			<att_10_b><![CDATA[Leite den Blitz<br />mit einer senkrechten<br />geerdeten Linie ab.]]></att_10_b>
+			
+			<att_11><![CDATA[Doppelvolt]]></att_11>
+			<att_11_a><![CDATA[Verursacht<br />zwei Blitzeinschläge<br />hintereinander!]]></att_11_a>
+			<att_11_b><![CDATA[Vergiss nicht,<br />auch den zweiten Blitz<br />abzuwehren.]]></att_11_b>
+			
+			<att_12><![CDATA[Kugelblitz]]></att_12>
+			<att_12_a><![CDATA[Generiert zusätzlich einen Kugelblitz!]]></att_12_a>
+			<att_12_b><![CDATA[Der Kugelblitz ist unberechenbar, schütze deine Küken.]]></att_12_b>
+			
+			<att_13><![CDATA[UFO]]></att_13>
+			<att_13_a><![CDATA[Entführt ein Küken!]]></att_13_a>
+			<att_13_b><![CDATA[Blocke mit einer horizontalen Linie die Entführung.]]></att_13_b>
+			
+			<att_14><![CDATA[Robo UFO]]></att_14>
+			<att_14_a><![CDATA[Beamstrahl<br />robotisiert Küken!]]></att_14_a>
+			<att_14_b><![CDATA[Robotisierte Küken zerstören deine Linien.]]></att_14_b>
+			
+			<att_15><![CDATA[Barbecufo]]></att_15>
+			<att_15_a><![CDATA[Schießt zusätzlich<br />einen Laserstrahl!]]></att_15_a>
+			<att_15_b><![CDATA[Wehre den Laser<br />durch eine weit oben<br />gezogene Linie ab.]]></att_15_b>
+			
+			<att_16><![CDATA[Oktopus]]></att_16>
+			<att_16_a><![CDATA[Schlägt nach Küken!]]></att_16_a>
+			<att_16_b><![CDATA[Pariere die Schläge mit horizontalen Linien.]]></att_16_b>
+			
+			<att_17><![CDATA[Fiese Qualle]]></att_17>
+			<att_17_a><![CDATA[Wirft zusätzlich<br />einen Schleimball!]]></att_17_a>
+			<att_17_b><![CDATA[Vorsicht, der Schleimball verzerrt deine Sicht.]]></att_17_b>
+			
+			<att_18><![CDATA[Kranke Krabbe]]></att_18>
+			<att_18_a><![CDATA[Wirft zusätzlich Seeigel!]]></att_18_a>
+			<att_18_b><![CDATA[Solange Seeigel an Küken haften, fügen sie Schaden zu.]]></att_18_b>
+			
+			<att_19><![CDATA[Gespenst]]></att_19>
+			<att_19_a><![CDATA[Überträgt Küken-<br />energie zum Gegner!]]></att_19_a>
+			<att_19_b><![CDATA[Geister zerfallen bei Berührung mit der Linie.]]></att_19_b>
+			
+			<att_20><![CDATA[Schubser]]></att_20>
+			<att_20_a><![CDATA[Verwandelt Küken<br />in Geister!]]></att_20_a>
+			<att_20_b><![CDATA[Geisterküken gehen durch deine Linien hindurch.]]></att_20_b>
+			
+			<att_21><![CDATA[Linienmampfer]]></att_21>
+			<att_21_a><![CDATA[Knabbert die Linie weg!]]></att_21_a>
+			<att_21_b><![CDATA[Isst deine Linie auf,<br />du kannst ihn nicht<br />abwehren.]]></att_21_b>
+			
+			<!-- Teams -->
+			
+			<nav_teams_pics>7</nav_teams_pics>
+			<nav_teams_name>team_png</nav_teams_name>
+			
+			<teams_unlocked>Von Anfang an verfügbar!</teams_unlocked>
+			<teams_tutorial>Freigeschaltet nach Abschluss des Tutorials!</teams_tutorial>
+			<teams_locked>9 Weitere Teams freizuschalten</teams_locked>
+			
+			<team_01>Teddy</team_01>
+			<team_02>Pilzköpfe</team_02>
+			<team_03>Regenbogen</team_03>
+			<team_04>Orient</team_04>
+			<team_05>Sitting Chick</team_05>
+			<team_06>Zuluküken</team_06>
+			<team_07>Schokodrops</team_07>
+			<team_08>Flower Power</team_08>
+			<team_09>Satansbraten</team_09>
+			
+			<!-- Arenas -->
+			
+			<arena_1>Stadt</arena_1>
+			<arena_2>Schiff</arena_2>
+			<arena_3>Spukwald</arena_3>
+			
+			<!-- Modi -->
+			
+			<mode_head_1>Duell Modus</mode_head_1>
+			<mode_sub_1>Sieger nach Runden</mode_sub_1>
+			
+			<mode_head_2>Zeit Modus</mode_head_2>
+			<mode_sub_2>Sieger nach Ablauf der Zeit</mode_sub_2>
+			
+			<mode_head_3>Pro Modus</mode_head_3>
+			<mode_sub_3>Durchhalten solange es geht</mode_sub_3>
+			
+		</topic>
+		
+		<!------------------------------------------------------------------------------------------------------------------>
+		<!-- MEDIA -->
+		<!------------------------------------------------------------------------------------------------------------------>
+		
+		<topic label="topic_03">
+			<nav>Media</nav>
+			
+			<nav_0>Screenshots</nav_0>
+			<nav_1>Videos</nav_1>
+			<nav_2>Artworks</nav_2>
+			
+			<nav_0_pics>13</nav_0_pics>
+			<nav_0_name>scr_jpg</nav_0_name>
+
+			<nav_2_pics>14</nav_2_pics>
+			<nav_2_name>art_png</nav_2_name>
+			
+			<btn_downloadall><![CDATA[Download All]]></btn_downloadall>
+			<btn_download><![CDATA[    Download]]></btn_download>
+			
+			<section_0><![CDATA[Trailer]]></section_0>
+			<section_1><![CDATA[Ingame Videos]]></section_1>
+			<section_2><![CDATA[Featured Videos]]></section_2>
+			
+			<video_0>http://www.youtube.com/v/VduTUzAmYSg?fs=0&amp;hl=de_DE&amp;autoplay=1&amp;rel=0</video_0>
+			<video_title_0><![CDATA[    ]]></video_title_0>
+			
+			<video_1>http://www.youtube.com/v/DAIWfFCLaJk?fs=0&amp;hl=de_DE&amp;autoplay=1&amp;rel=0</video_1>
+			<video_title_1>Arena: Stadt</video_title_1>
+			
+			<video_2>http://www.youtube.com/v/e0WinONjmXY?fs=0&amp;hl=de_DE&amp;autoplay=1&amp;rel=0</video_2>
+			<video_title_2>Arena: Schiff</video_title_2>
+			
+			<video_3>http://www.youtube.com/v/y-iOKfiVdd4?fs=0&amp;hl=de_DE&amp;autoplay=1&amp;rel=0</video_3>
+			<video_title_3>Arena: Spukwald</video_title_3>
+			
+			<video_4>http://www.youtube.com/v/2r9BfdoU15k?fs=0&amp;hl=de_DE&amp;autoplay=1&amp;rel=0</video_4>
+			<video_title_4>The Fold</video_title_4>
+			
+			<video_5>http://www.youtube.com/v/JWG7AVooqzU?fs=0&amp;hl=de_DE&amp;autoplay=1&amp;rel=0</video_5>
+			<video_title_5>Video Review</video_title_5>
+	
+		</topic>
+			
+		<!------------------------------------------------------------------------------------------------------------------>
+		<!-- REVIEWS -->
+		<!------------------------------------------------------------------------------------------------------------------>
+		
+		<topic label="topic_04">
+			<nav>Reviews</nav>
+			
+			<rev_button>Zum Artikel</rev_button>
+			
+			<reviews>
+				<rev>
+					<header>rev_gamersde.png</header>
+					<body><![CDATA[» Denn was tons of bits aus dem simplen Spielprinzip gemacht haben verdient Beachtung. Wer auf originelle und fordernde Party-Games steht, der sollte sich dieses Spiel nicht entgehen lassen. «]]></body>
+					<date>Nov 2010</date>
+					<url>http://www.gamers.de/artikel/1321/1/chick-chick-boom/kreative-kueken-schlacht.html</url>
+					<score>84</score>
+				</rev>
+				<rev>
+					<header>rev_wiiinsider.png</header>
+					<body><![CDATA[» Mit chick chick BOOM liefert tons of bits ein fantastisches Debüt auf Nintendos WiiWare-Service ab, dem hoffentlich noch weitere ähnlich ambitionierte Werke folgen werden. «]]></body>
+					<date>Nov 2010</date>
+					<url>http://www.wiiinsider.de/spiele/chick-chick-boom/testbericht.html</url>
+					<score>85</score>
+				</rev>
+				<rev>
+					<header>rev_nintendoonline.png</header>
+					<body><![CDATA[» chick chick BOOM gehört mit Sicherheit zu den besten Mehrspieler-Titeln im Wii-Shop. Wer spaßige Mehrspieler-Action sucht, sollte unbedingt zugreifen. «]]></body>
+					<date>Nov 2010</date>
+					<url>http://www.nintendo-online.de/artikel/reviews/1227/chick-chick-boom/</url>
+					<score>80</score>
+				</rev>
+				<rev>
+					<header>rev_consolewars.png</header>
+					<body><![CDATA[» Der vorhandene Tiefgang hat mich ziemlich überrascht und birgt vor allem im Multiplayer für ein gewisses Suchtpotential, dem ich mich kaum entziehen kann. «]]></body>
+					<date>Nov 2010</date>
+					<url>http://www.consolewars.de/reviews/1028/chick_chick_boom/test/</url>
+					<score>80</score>
+				</rev>
+				<rev>
+					<header>rev_wiitower.png</header>
+					<body><![CDATA[» Bei chick chick BOOM überkam mich das selbe Gefühl, das ich schon seit Tetris kenne: Ich will immer wieder noch eine und noch eine Runde spielen. Wer öfter Freunde zu Hause hat, kommt eigentlich nicht um chick chick BOOM herum. «]]></body>
+					<date>Nov 2010</date>
+					<url>http://www.wiitower.de/?page=Wiiware&page_section=show&wiiware_id=247&s=</url>
+					<score>100</score>
+				</rev>
+				<rev>
+					<header>rev_10do.png</header>
+					<body><![CDATA[» Kombiniert man das mit den teilweise extrem durchgeknallten Ideen und den aberwitzigen Attacken, dann wird schnell klar, dass hier extreme Suchtgefahr besteht. «]]></body>
+					<date>Nov 2010</date>
+					<url>http://10do.de/WiiWare.454.0.html?&tx_capreviews_pi1[state]=show&tx_capreviews_pi1[uid]=4020&tx_capreviews_pi1[sortby]=title&tx_capreviews_pi1[order]=asc</url>
+					<score>85</score>
+				</rev>
+				<rev>
+					<header>rev_npack.png</header>
+					<body><![CDATA[» chick chick BOOM ist ein toller Titel für lange Multiplayer-Abende. Obwohl das Prinzip extrem simpel ist, ist jede Menge strategische Tiefe vorhanden. «]]></body>
+					<date>Nov 2010</date>
+					<url>http://www.npack.de/review-998-chick-chick-boom-p3.html</url>
+					<score>80</score>
+				</rev>
+				<rev>
+					<header>rev_bravenewgaming.png</header>
+					<body><![CDATA[» chick chick BOOM ist ein cleverer und enorm spaßiger Titel der perfekt auf WiiWare funktioniert – ein schöner, bunter Lichtblick im sonst etwas arg drögen WiiWare-Programm der letzten Wochen. «]]></body>
+					<date>Nov 2010</date>
+					<url>http://www.bravenewgaming.de/Artikel/chick-chick-boom</url>
+					<score>80</score>
+				</rev>
+				<rev>
+					<header>rev_wiiclub.png</header>
+					<body><![CDATA[» chick chick BOOM ist ein Spiel, das ohne weiteres so manches renommierte Partyspiel in den Schatten stellen kann. Von unserer Seite kommt eine klare Kaufempfehlung. «]]></body>
+					<date>Nov 2010</date>
+					<url>http://www.wiiclub.de/review/chick-chick-boom-ton-bits</url>
+					<score>85</score>
+				</rev>
+			</reviews>
+			
+		</topic>	
+		
+		<!------------------------------------------------------------------------------------------------------------------>
+		<!-- RETRO -->
+		<!------------------------------------------------------------------------------------------------------------------>
+				
+		<topic label="topic_05">
+			<nav>Retro</nav>
+		</topic>
+	
+		
+	</content>
+	
+	
+	<!------------------------------------------------------------------------------------------------------------------>
+	<!-- GLOBAL 																									  -->
+	<!------------------------------------------------------------------------------------------------------------------>
+
+	<global>
+		<comingsooon>Bald verfügbar!</comingsooon>
+		
+	</global>
+	
+	
+	<!------------------------------------------------------------------------------------------------------------------>
+	<!-- FOOTER																										  -->	
+	<!------------------------------------------------------------------------------------------------------------------>
+	
+	<footer>
+		
+		<genre_title>Kategorie:</genre_title>	
+		<genre>Comic Action</genre>
+		<player_title>Spieler:</player_title>
+		<player>1 - 4 (Versus + Coop)</player>
+		<lang_title>Sprachen:</lang_title>
+		<lang> <![CDATA[  ]]></lang>
+		<platform_title>Plattform:</platform_title>
+		<platform><![CDATA[Wii™ (WiiWare™)]]></platform>
+		<releasedate_title>Verfügbar:</releasedate_title>
+		<releasedate>29. Oktober 2010</releasedate>	
+		<region_title>Verfügbar in:</region_title>
+		<region>Nordamerika, Europa, Australien</region>	
+		
+		<joinus><![CDATA[Join us on]]></joinus>
+		
+		<fb>http://www.facebook.com/pages/tons-of-bits/118433388195191</fb>
+		<tw>http://twitter.com/tons_of_bits</tw>
+		<yt>http://www.youtube.com/tonsofbits</yt>
+		
+		<tonsofbits>http://www.tons-of-bits.com</tonsofbits>
+		<wiiware>http://www.wiiware.com</wiiware>
+		<usk>http://www.usk.de</usk>
+		
+		<disclaimer><![CDATA[© 2010 tons of bits. All rights reserved. Trademarks are property of their respective owners.<br />Nintendo trademarks used under license. WiiWare is available only through the Wii console.]]></disclaimer>	
+		
+		<legallinks><![CDATA[<a href="http://www.tons-of-bits.com/?c=imprint" target="_blank"><u>Imprint</u></a>  |  <a href="http://www.tons-of-bits.com/?c=contact" target="_blank"><u>Contact</u></a>]]></legallinks>
+	</footer>
+	
+</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

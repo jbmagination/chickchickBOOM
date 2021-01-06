@@ -1,0 +1,468 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<text>
+	<navigation>
+		<topic topic="topic_01" />
+		<topic topic="topic_02" />
+		<topic topic="topic_03" />
+		<topic topic="topic_04" />
+		<topic topic="topic_05" />
+	</navigation>
+
+	
+	<!------------------------------------------------------------------------------------------------------------------>
+	<!-- NEWS																									  -->
+	<!------------------------------------------------------------------------------------------------------------------>
+
+	<news_archive latest="Latest News:">
+		<news>
+			<nav><![CDATA[Free retro version for Easter!]]></nav>
+			<headline><![CDATA[Back To The Roots!]]></headline>
+			<content><![CDATA[It's Easter time and this calls for a free game!<br />Play the retro version of chick chick BOOM now!]]></content>
+			<link><![CDATA[trailer]]></link>
+		</news>
+		<news>
+			<nav><![CDATA[Jump 'n' Run advent calendar]]></nav>
+			<headline><![CDATA[Chubby is back!]]></headline>
+			<content><![CDATA[Our online advent calendar Mission in Snowdriftland<br />will be available from 1st December with a new level each day! Have fun!]]></content>
+			<link>http://www.mission-in-snowdriftland.com/</link>
+		</news>
+	</news_archive>
+			
+	<!------------------------------------------------------------------------------------------------------------------>
+	<!-- CONTENT																									  -->
+	<!------------------------------------------------------------------------------------------------------------------>
+
+	<content>
+	
+		<!------------------------------------------------------------------------------------------------------------------>
+		<!-- HOME -->
+		<!------------------------------------------------------------------------------------------------------------------>
+		
+		<topic label="topic_01">
+			<nav>Home</nav>
+			
+			<review_title>What does the press say?</review_title>
+			<review_total><![CDATA[Average<br />review score]]></review_total>
+			<review_score>84</review_score>
+			<btn_review><![CDATA[All reviews]]></btn_review>
+			
+			<shop_title><![CDATA[Tons of Style]]></shop_title>
+			<shop_sub><![CDATA[T-Shirts and more with<br />chick chick BOOM Design!]]></shop_sub>
+			<btn_shop><![CDATA[Visit Shop]]></btn_shop>
+			
+			<news_title>News</news_title>
+<!--			<btn_news>More info</btn_news> -->
+			<btn_news>Play now!</btn_news>
+			
+			<howtobuy_title><![CDATA[how<br />to buy?]]></howtobuy_title>
+			<btn_guide><![CDATA[Guide]]></btn_guide>
+			<btn_guide_link><![CDATA[http://www.nintendo.co.uk/NOE/en_GB/systems/tutorials_12523.html]]></btn_guide_link>
+			
+	
+			<newsletter_title>Subscribe to our Newsletter!</newsletter_title>
+			<newsletter_input><![CDATA[Your e-mail address]]></newsletter_input>
+			<newsletter_desc><![CDATA[Subscribe to the<br />tons of bits newsletter!]]></newsletter_desc>
+			<newsletter_send>Subscribe  Newsletter</newsletter_send>
+			<newsletter_thanks><![CDATA[Thank you for subscribing to the tons of bits Newsletter!]]></newsletter_thanks>
+			<newsletter_error><![CDATA[You have already subscribed<br />to this newsletter.]]></newsletter_error>
+			<btn_newsletter>Newsletter</btn_newsletter>
+			<btn_newsletter_link>newsletter</btn_newsletter_link>
+	
+			
+			<video_1>http://www.youtube.com/v/DAIWfFCLaJk?fs=0&amp;hl=en_GB&amp;autoplay=0&amp;rel=1</video_1>
+			<video_title_1>Arena: City</video_title_1>
+			
+			<video_2>http://www.youtube.com/v/e0WinONjmXY?fs=0&amp;hl=en_GB&amp;autoplay=0&amp;rel=1</video_2>
+			<video_title_2>Arena: Ship</video_title_2>
+			
+			<video_3>http://www.youtube.com/v/y-iOKfiVdd4?fs=0&amp;hl=en_GB&amp;autoplay=0&amp;rel=1</video_3>
+			<video_title_3>Arena: Haunted Wood</video_title_3>
+			
+			<video_4>http://www.youtube.com/v/JWG7AVooqzU?fs=0&amp;hl=en_GB&amp;autoplay=0&amp;rel=1</video_4>
+			<video_title_4>Video Review</video_title_4>
+			
+			<!-- hot picks -->
+			
+			<hotpicks>Hot Picks</hotpicks>
+			
+			
+			<hotpicks_0_info><![CDATA[Nintendolife started a<br />competition where you<br />can win one of 10 copies<br />+ a personalized artwork!<br />To the competition...]]></hotpicks_0_info>
+			<hotpicks_0_url>http://www.nintendolife.com/news/2010/11/competition_chick_chick_boom_all_pal_regions</hotpicks_0_url>
+									
+			
+			<hotpicks_1_info><![CDATA[We were honored<br />by receiving a review<br />from Nintendolife!<br />Read the whole<br />article here...]]></hotpicks_1_info>
+			<hotpicks_1_url>http://wiiware.nintendolife.com/reviews/2010/11/chick_chick_boom</hotpicks_1_url>
+			
+			
+			<hotpicks_2_info><![CDATA[9/10 again!<br />The guys from<br />bits 'n' bytes reviewed<br />chick chick BOOM!<br />Thank you!]]></hotpicks_2_info>
+			<hotpicks_2_url>http://bnbgaming.com/2010/11/03/chick-chick-boom-review/</hotpicks_2_url>
+			
+			
+			<hotpicks_3_info><![CDATA[We got our first review<br />from the australian<br />website MMGN!<br /><br />Thank you very much!]]></hotpicks_3_info>
+			<hotpicks_3_url>http://wii.mmgn.com/Reviews/chick-chick-BOOM-Review</hotpicks_3_url>
+	
+		</topic>
+		
+		<!------------------------------------------------------------------------------------------------------------------>
+		<!-- ABOUT -->
+		<!------------------------------------------------------------------------------------------------------------------>
+		
+		<topic label="topic_02">
+			<nav>About</nav>
+			
+			<nav_0>Info</nav_0>
+			<nav_1>Attacks</nav_1>
+			<nav_2>Teams</nav_2>
+			<nav_3>Arenas</nav_3>
+			<nav_4>Game Modes</nav_4>
+			
+			<info_boom><![CDATA[BOOM!]]></info_boom>
+			<info_left><![CDATA[Five chicks on your side...]]></info_left>
+			<info_right><![CDATA[...five chicks on the other.]]></info_right>
+			<info_body1><![CDATA[Beat the opposing chick team, but there is a twist!<br />In chick chick BOOM you throw pianos, pink elephants, and Sumo chicks or<br />summon slimy giant jellyfish and real UFOs.]]></info_body1>
+			<info_body2><![CDATA[Draw lines in the arena to defend against your opponent's attacks -<br />the skill lies in your use of ink, creativity and timing! And extra help is provided by a corncob and a piñata. Yes really! ]]></info_body2>
+			<info_body3><![CDATA[Play on your own or with friends - as a team or against each other!<br />To keep things interesting there are various game modes and different arenas, each with their own special attack.]]></info_body3>
+			
+			<info_update><![CDATA[This section will be updated soon!]]></info_update>
+			
+			<!-- Attacken -->
+			
+			<att_bomb><![CDATA[Bomb]]></att_bomb>
+			<att_weight><![CDATA[Weight]]></att_weight>
+			<att_plant><![CDATA[Plant]]></att_plant>
+			<att_lightning><![CDATA[Lightning]]></att_lightning>
+			<att_ufo><![CDATA[UFO]]></att_ufo>
+			<att_seemonster><![CDATA[Sea<br />monster]]></att_seemonster>
+			<att_ghost><![CDATA[Ghost]]></att_ghost>
+
+			<att_1><![CDATA[Bumble Bomb]]></att_1>
+			<att_1_a><![CDATA[Explodes after<br />short period! ]]></att_1_a>
+			<att_1_b><![CDATA[Use a line to protect from the explosion.]]></att_1_b>
+			
+			<att_2><![CDATA[Frog Cracker]]></att_2>
+			<att_2_a><![CDATA[Sprays acid<br />when it explodes!]]></att_2_a>
+			<att_2_b><![CDATA[Be careful, acid drains your chicks' energy.]]></att_2_b>
+			
+			<att_3><![CDATA[Ladybug Boom]]></att_3>
+			<att_3_a><![CDATA[Activates<br />two additional<br />mini-bombs!]]></att_3_a>
+			<att_3_b><![CDATA[The mini bombs explode one after the other.]]></att_3_b>
+			
+			<att_4><![CDATA[Weight]]></att_4>
+			<att_4_a><![CDATA[Flattens chicks!]]></att_4_a>
+			<att_4_b><![CDATA[The line must be at least as wide as the weight.]]></att_4_b>
+			
+			<att_5><![CDATA[Chick Fixer]]></att_5>
+			<att_5_a><![CDATA[Locks chicks<br />in one place<br />before it falls!]]></att_5_a>
+			<att_5_b><![CDATA[The glue will stick your chicks in one place.]]></att_5_b>
+			
+			<att_6><![CDATA[Sumo Chick]]></att_6>
+			<att_6_a><![CDATA[Bounces again<br />after landing!]]></att_6_a>
+			<att_6_b><![CDATA[The Sumo chick<br />will always fall twice.]]></att_6_b>
+			
+			<att_7><![CDATA[Snap Weed]]></att_7>
+			<att_7_a><![CDATA[Snaps at chicks!]]></att_7_a>
+			<att_7_b><![CDATA[The plant will<br />grow up the line.]]></att_7_b>
+			
+			<att_8><![CDATA[Scorpion Fern]]></att_8>
+			<att_8_a><![CDATA[Poisons bitten chicks!]]></att_8_a>
+			<att_8_b><![CDATA[Poisoned chicks<br />are more susceptible<br />to damage.]]></att_8_b>
+			
+			<att_9><![CDATA[Fire Flower]]></att_9>
+			<att_9_a><![CDATA[Confuses bitten chicks!]]></att_9_a>
+			<att_9_b><![CDATA[Confused chicks are attracted by danger.]]></att_9_b>
+			
+			<att_10><![CDATA[Lightning]]></att_10>
+			<att_10_a><![CDATA[Chicks receive<br />an electric shock!]]></att_10_a>
+			<att_10_b><![CDATA[Use vertically<br />earthed line to conduct<br />lightning away.]]></att_10_b>
+			
+			<att_11><![CDATA[Double Bolt]]></att_11>
+			<att_11_a><![CDATA[Causes two lightning strikes one after the next!]]></att_11_a>
+			<att_11_b><![CDATA[Don't forget<br />to deflect the second<br />lightning bolt.]]></att_11_b>
+			
+			<att_12><![CDATA[Lightning Ball]]></att_12>
+			<att_12_a><![CDATA[Generates an additional Lightning Ball!]]></att_12_a>
+			<att_12_b><![CDATA[Lightning balls<br />are unpredictable.<br />Protect chicks. ]]></att_12_b>
+			
+			<att_13><![CDATA[UFO]]></att_13>
+			<att_13_a><![CDATA[Abducts a chick!]]></att_13_a>
+			<att_13_b><![CDATA[Block abduction with<br />a horizontal line.]]></att_13_b>
+			
+			<att_14><![CDATA[Robo UFO]]></att_14>
+			<att_14_a><![CDATA[Laser beam turns<br />chicks into robots!]]></att_14_a>
+			<att_14_b><![CDATA[Robot chicks<br />destroy your lines.]]></att_14_b>
+			
+			<att_15><![CDATA[Barbecufo]]></att_15>
+			<att_15_a><![CDATA[Shoots a<br />laser beam as well!]]></att_15_a>
+			<att_15_b><![CDATA[Deflect laser with a long line drawn high up.]]></att_15_b>
+			
+			<att_16><![CDATA[Octopus]]></att_16>
+			<att_16_a><![CDATA[Tries to hit chicks!]]></att_16_a>
+			<att_16_b><![CDATA[Avoid the hits<br />with horizontal lines.]]></att_16_b>
+			
+			<att_17><![CDATA[Mean Jelly]]></att_17>
+			<att_17_a><![CDATA[Throws a<br />slime ball as well!]]></att_17_a>
+			<att_17_b><![CDATA[Careful, the slime distorts your vision.]]></att_17_b>
+			
+			<att_18><![CDATA[Crazy Crab]]></att_18>
+			<att_18_a><![CDATA[Throws<br />sea urchins as well!]]></att_18_a>
+			<att_18_b><![CDATA[Sea urchins<br />cause damage when<br />stuck to chicks.]]></att_18_b>
+			
+			<att_19><![CDATA[Ghost]]></att_19>
+			<att_19_a><![CDATA[Transfers chicks'<br />energy to opponent!]]></att_19_a>
+			<att_19_b><![CDATA[Ghosts disintegrate when they touch the line.]]></att_19_b>
+			
+			<att_20><![CDATA[Shover]]></att_20>
+			<att_20_a><![CDATA[Transforms<br />chicks into ghosts!]]></att_20_a>
+			<att_20_b><![CDATA[Ghost chicks will pass through your lines.]]></att_20_b>
+			
+			<att_21><![CDATA[Line Muncher]]></att_21>
+			<att_21_a><![CDATA[Nibbles the line away!]]></att_21_a>
+			<att_21_b><![CDATA[Will eat your line,<br />you can't fend it off.]]></att_21_b>
+			
+			<!-- Teams -->
+			
+			<nav_teams_pics>7</nav_teams_pics>
+			<nav_teams_name>team_png</nav_teams_name>
+			
+			<teams_unlocked>Available from the start!</teams_unlocked>
+			<teams_tutorial>Unlocked after completing the tutorial!</teams_tutorial>
+			<teams_locked>9 more unlockable Teams</teams_locked>
+			
+			<team_01>Teddy</team_01>
+			<team_02>Mushheads</team_02>
+			<team_03>Rainbow</team_03>
+			<team_04>Orients</team_04>
+			<team_05>Sitting Chick</team_05>
+			<team_06>Zulu chicks</team_06>
+			<team_07>Chocdrops</team_07>
+			<team_08>Flower Power</team_08>
+			<team_09>Little Devils</team_09>
+			
+			<!-- Arenas -->
+			
+			<arena_1>City</arena_1>
+			<arena_2>Ship</arena_2>
+			<arena_3>Haunted Wood</arena_3>
+			
+			<!-- Modi -->
+			
+			<mode_head_1>Duel Mode</mode_head_1>
+			<mode_sub_1>Win set no. of rounds</mode_sub_1>
+			
+			<mode_head_2>Time Mode</mode_head_2>
+			<mode_sub_2>Win over set amount of time</mode_sub_2>
+			
+			<mode_head_3>Pro Mode</mode_head_3>
+			<mode_sub_3>Hold out for as long as you can</mode_sub_3>
+			
+		</topic>
+		
+		<!------------------------------------------------------------------------------------------------------------------>
+		<!-- MEDIA -->
+		<!------------------------------------------------------------------------------------------------------------------>
+		
+		<topic label="topic_03">
+			<nav>Media</nav>
+			
+			<nav_0>Screenshots</nav_0>
+			<nav_1>Videos</nav_1>
+			<nav_2>Artwork</nav_2>
+			
+			<nav_0_pics>13</nav_0_pics>
+			<nav_0_name>scr_jpg</nav_0_name>
+
+			<nav_2_pics>14</nav_2_pics>
+			<nav_2_name>art_png</nav_2_name>
+			
+			<btn_downloadall><![CDATA[Download All]]></btn_downloadall>
+			<btn_download><![CDATA[    Download]]></btn_download>
+			
+			<section_0><![CDATA[Trailer]]></section_0>
+			<section_1><![CDATA[Ingame Videos]]></section_1>
+			<section_2><![CDATA[Featured Videos]]></section_2>
+			
+			<video_0>http://www.youtube.com/v/VduTUzAmYSg?fs=0&amp;hl=en_GB&amp;autoplay=1&amp;rel=0</video_0>
+			<video_title_0><![CDATA[    ]]></video_title_0>
+			
+			<video_1>http://www.youtube.com/v/DAIWfFCLaJk?fs=0&amp;hl=en_GB&amp;autoplay=1&amp;rel=0</video_1>
+			<video_title_1>Arena: City</video_title_1>
+			
+			<video_2>http://www.youtube.com/v/e0WinONjmXY?fs=0&amp;hl=en_GB&amp;autoplay=1&amp;rel=0</video_2>
+			<video_title_2>Arena: Ship</video_title_2>
+			
+			<video_3>http://www.youtube.com/v/y-iOKfiVdd4?fs=0&amp;hl=en_GB&amp;autoplay=1&amp;rel=0</video_3>
+			<video_title_3>Arena: Haunted Wood</video_title_3>
+			
+			<video_4>http://www.youtube.com/v/2r9BfdoU15k?fs=0&amp;hl=en_GB&amp;autoplay=1&amp;rel=0</video_4>
+			<video_title_4>The Fold</video_title_4>
+			
+			<video_5>http://www.youtube.com/v/JWG7AVooqzU?fs=0&amp;hl=en_GB&amp;autoplay=1&amp;rel=0</video_5>
+			<video_title_5>Video Review</video_title_5>
+	
+		</topic>
+
+		<!------------------------------------------------------------------------------------------------------------------>
+		<!-- REVIEWS -->
+		<!------------------------------------------------------------------------------------------------------------------>
+		
+		<topic label="topic_04">
+			<nav>Reviews</nav>
+			
+			<rev_button>Read whole article</rev_button>
+			
+			<reviews>
+				<rev>
+					<header>rev_nintendolife.png</header>
+					<body><![CDATA[» If you plan of playing multiplayer it's a no-brainer, but even solo players will find a good deal of entertainment here. «]]></body>
+					<date>Nov 2010</date>
+					<url>http://wiiware.nintendolife.com/reviews/2010/11/chick_chick_boom</url>
+					<score>80</score>
+				</rev>
+				<rev>
+					<header>rev_neurope.png</header>
+					<body><![CDATA[» chick chick BOOM combines simple appearances to a unique and frantically fun battle system. It’s an absolute blast in multiplayer and has enough challenge to keep you occupied while you’re on your own. «]]></body>
+					<date>Nov 2010</date>
+					<url>http://www.n-europe.com/review.php?rid=541</url>
+					<score>80</score>
+				</rev>
+				<rev>
+					<header>rev_mmgn.png</header>
+					<body><![CDATA[» chick chick BOOM is presented in a highly polished way that is cute, entertaining, and incredibly fun. Overall, the game is a great experience which will result in hours and hours of fun. «]]></body>
+					<date>Nov 2010</date>
+					<url>http://wii.mmgn.com/Reviews/chick-chick-BOOM-Review</url>
+					<score>90</score>
+				</rev>
+				<rev>
+					<header>rev_bitsnbytes.png</header>
+					<body><![CDATA[» chick chick BOOM sets the standard for what WiiWare titles should be aspiring to in terms of gameplay and we can only hope that other developers take note. «]]></body>
+					<date>Nov 2010</date>
+					<url>http://bnbgaming.com/2010/11/03/chick-chick-boom-review/</url>
+					<score>90</score>
+				</rev>
+				<rev>
+					<header>rev_gaminggauge.png</header>
+					<body><![CDATA[» Overall, chick chick BOOM is a very polished, frantic and cute game but under the simple mechanics and the even simpler aesthetic lies a game that can be complicated,  panicky and very strategic. «]]></body>
+					<date>Nov 2010</date>
+					<url>http://www.gaminggauge.com/?p=81</url>
+					<score>90</score>
+				</rev>
+				<rev>
+					<header>rev_techgaming.png</header>
+					<body><![CDATA[» Between the title's chirpy music, rotund bouncing baby fowls, and cartoonish arsenal, the download conveys a pleasing sense of whimsy, making it a near-textbook title for Nintendo's console. «]]></body>
+					<date>Jan 2011</date>
+					<url>http://tech-gaming.com/2011/01/02/chick-chick-boom.aspx</url>
+					<score>81</score>
+				</rev>
+				<rev>
+					<header>rev_infendo.png</header>
+					<body><![CDATA[» If you’ve ever felt Worms ought to be boiled down to something simpler, faster, and cuter, consider giving chick chick BOOM a spin. «]]></body>
+					<date>Jan 2011</date>
+					<url>http://www.infendo.com/chick-chick-boom-wiiware-review/</url>
+					<score>89</score>
+				</rev>
+				<rev>
+					<header>rev_nintendookie.png</header>
+					<body><![CDATA[» I can say, without any doubt, that the game is a lot of fun and you probably won’t mind having this one in your WiiWare library. «]]></body>
+					<date>Jan 2011</date>
+					<url>http://nintendo-okie.com/2011/01/06/chick-chick-boom-review/</url>
+					<score>80</score>
+				</rev>
+				<rev>
+					<header>rev_seanswiiworld.png</header>
+					<body><![CDATA[» If you're looking for something challenging and fun to spend those Wii Shop points on, this is definitely worth your consideration.  «]]></body>
+					<date>Dec 2010</date>
+					<url>http://www.seanswiiworld.co.uk/2010/12/chick-chick-boom-wiiware-review.html</url>
+					<score>- </score>
+				</rev>
+				<rev>
+					<header>rev_wiisworld.png</header>
+					<body><![CDATA[» chick chick BOOM has very fun gameplay, that's a fact. However, even with a friend the game has amazingly little variety. It comes highly recommended, just be warned before you plop down 800 Wii points. «]]></body>
+					<date>Jan 2011</date>
+					<url>http://www.wiisworld.com/wiiware-reviews/chick-chick-BOOM.html</url>
+					<score>93</score>
+				</rev>
+				<rev>
+					<header>rev_destructoid.png</header>
+					<body><![CDATA[» chick chick BOOM is fast and furious at the outset but slows down way too soon and way too abruptly. It's fun if a bit lacking. But hey, you get to murder baby chickens, so that's gotta count for something, right? «]]></body>
+					<date>Jan 2011</date>
+					<url>http://www.destructoid.com/review-chick-chick-boom-190663.phtml</url>
+					<score>70</score>
+				</rev>				
+			</reviews>
+			
+		</topic>	
+		
+		<!------------------------------------------------------------------------------------------------------------------>
+		<!-- RETRO -->
+		<!------------------------------------------------------------------------------------------------------------------>
+				
+		<topic label="topic_05">
+			<nav>Retro</nav>
+		</topic>
+	
+		
+	</content>
+	
+	
+	<!------------------------------------------------------------------------------------------------------------------>
+	<!-- GLOBAL 																									  -->
+	<!------------------------------------------------------------------------------------------------------------------>
+
+	<global>
+		<comingsooon>Coming soon</comingsooon>
+		
+	</global>
+	
+	
+	<!------------------------------------------------------------------------------------------------------------------>
+	<!-- FOOTER																										  -->	
+	<!------------------------------------------------------------------------------------------------------------------>
+	
+	<footer>
+	
+		<genre_title>Category:</genre_title>		
+		<genre>Comic Action</genre>
+		<player_title>Player:</player_title>
+		<player>1 - 4 (Versus + Coop)</player>
+		<lang_title>Languages:</lang_title>
+		<lang> <![CDATA[  ]]></lang>
+		<platform_title>Platform:</platform_title>
+		<platform><![CDATA[Wii™ (WiiWare™)]]></platform>
+		<releasedate_title>Release:</releasedate_title>
+		<releasedate>29th October 2010</releasedate>	
+		<region_title>Available in:</region_title>
+		<region>North America, Europe, Australia</region>			
+		
+		<joinus><![CDATA[Join us on]]></joinus>
+		
+		<fb>http://www.facebook.com/pages/tons-of-bits/118433388195191</fb>
+		<tw>http://twitter.com/tons_of_bits</tw>
+		<yt>http://www.youtube.com/tonsofbits</yt>
+		
+		<tonsofbits>http://www.tons-of-bits.com</tonsofbits>
+		<wiiware>http://www.wiiware.com</wiiware>
+		<pegi>http://www.pegi.info</pegi>
+		<agcb>http://classification.gov.au/</agcb>
+		
+		<disclaimer><![CDATA[© 2010 tons of bits. All rights reserved. Trademarks are property of their respective owners.<br />Nintendo trademarks used under license. WiiWare is available only through the Wii console.]]></disclaimer>	
+		
+		<legallinks><![CDATA[<a href="http://www.tons-of-bits.com/?c=imprint" target="_blank"><u>Imprint</u></a>  |  <a href="http://www.tons-of-bits.com/?c=contact" target="_blank"><u>Contact</u></a>]]></legallinks>
+	</footer>
+	
+</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

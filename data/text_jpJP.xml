@@ -1,0 +1,349 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<text>
+	<navigation>
+		<topic topic="topic_01" />
+		<topic topic="topic_02" />
+		<topic topic="topic_03" />
+		<topic topic="topic_04" />
+	</navigation>
+
+	
+	<!------------------------------------------------------------------------------------------------------------------>
+	<!-- NEWS																									  -->
+	<!------------------------------------------------------------------------------------------------------------------>
+
+	<news_archive latest="Latest News:">
+		<news>
+			<nav><![CDATA[最新情報]]></nav>
+			<headline><![CDATA[2010/12/14 公式サイトオープン！]]></headline>
+			<content><![CDATA[Wiiウェアソフト<br />「チキンバトル！チクチクブーン」の<br />公式サイトをオープンいたしました。<br />配信価格500Wiiポイント]]></content>
+			<link>http://www.mission-in-snowdriftland.com/</link>
+		</news>
+	</news_archive>
+			
+	<!------------------------------------------------------------------------------------------------------------------>
+	<!-- CONTENT																									  -->
+	<!------------------------------------------------------------------------------------------------------------------>
+
+	<content>
+	
+		<!------------------------------------------------------------------------------------------------------------------>
+		<!-- HOME -->
+		<!------------------------------------------------------------------------------------------------------------------>
+		
+		<topic label="topic_01">
+			<nav>トップ</nav>
+			
+			<review_title>レビューサイトから高評価をいただいております！</review_title>
+			<review_total><![CDATA[平均<br />レビュースコア]]></review_total>
+			<review_score>85</review_score>
+			<btn_review><![CDATA[レビューの詳細を見る    癴]]></btn_review>
+			
+			<news_title>News</news_title>
+			<btn_news>More info</btn_news>
+
+			<howtobuy_title><![CDATA[どこで<br />買える？]]></howtobuy_title>
+			<btn_guide><![CDATA[ここから]]></btn_guide>
+			<btn_guide_link><![CDATA[http://www.nintendo.co.jp/wii/wiiware_vc/index.html]]></btn_guide_link>
+			
+			<video_1>http://www.youtube.com/v/y6b5Z6cWOzg?fs=0&amp;hl=ja_JP&amp;autoplay=0&amp;rel=0</video_1>
+						
+			<video_2>http://www.youtube.com/v/y6b5Z6cWOzg?fs=0&amp;hl=ja_JP&amp;autoplay=0&amp;rel=0</video_2>
+						
+			<video_3>http://www.youtube.com/v/y6b5Z6cWOzg?fs=0&amp;hl=ja_JP&amp;autoplay=0&amp;rel=0</video_3>
+	
+		</topic>
+		
+		<!------------------------------------------------------------------------------------------------------------------>
+		<!-- ABOUT -->
+		<!------------------------------------------------------------------------------------------------------------------>
+		
+		<topic label="topic_02">
+			<nav>ゲーム紹介</nav>
+			
+			<nav_0>概要</nav_0>
+			<nav_1>アタック</nav_1>
+			<nav_2>チーム</nav_2>
+			<nav_2>チーム</nav_2>
+			<nav_3>ステージ</nav_3>
+			<nav_4>ゲームモード</nav_4>
+			
+			<info_boom><![CDATA[レッツ<br />バトル！]]></info_boom>
+			<info_left><![CDATA[５匹の<br />チキンと...]]></info_left>
+			<info_right><![CDATA[...５匹の<br />チキンで]]></info_right>
+			<info_body1><![CDATA[●チキンvsチキンの壮絶なお絵かきバトルゲーム！<br />ぴょんぴょんと跳ねるチキン5vs5で繰り広げる「おえかきバトル」！<br />バクダンを描けば、バクダンが相手を襲い、「イナズマ」を描けば、<br />「ドーン！」と相手のフィールドにイナズマが落ちます。]]></info_body1>
+			<info_body2><![CDATA[●全ては「おえかき」で決まる！<br />UFOを描けばUFOが攻撃、タコの足を描けば、タコが出てきて「タコ殴り」！<br />お絵かきのスピードで攻撃力が決まります！<br />また、たとえば「イナズマ」で攻撃された場合は「ひらいしん」を描けばダメージを回避できるなど、<br />回避や反撃なども、全て「おえかき」が運命を分けるのです！]]></info_body2>
+			<info_body3><![CDATA[●最大４人対戦可能！１５種のチーム、２０以上の攻撃方法であたふたバトル！<br />本ゲームでは、最大2vs2による４人対戦が可能！<br />また、使用可能なチームは、隠しチーム含め１５チーム！<br />そのほか「ピニャっち」や「モロコシマン」などが、さらにバトルをカオスなものにします。<br />さぁ、あなたもレッツチキンバトル！]]></info_body3>
+			
+					
+			<!-- Attacks -->
+			
+			<att_bomb><![CDATA[バクダン]]></att_bomb>
+			<att_weight><![CDATA[セントーン]]></att_weight>
+			<att_plant><![CDATA[ガブリーノ]]></att_plant>
+			<att_lightning><![CDATA[イナズマ]]></att_lightning>
+			<att_ufo><![CDATA[ユーフォー]]></att_ufo>
+			<att_seemonster><![CDATA[<font size="14">クリーチャー]]></att_seemonster>
+			<att_ghost><![CDATA[ゴースト]]></att_ghost>
+
+			<att_1><![CDATA[ハチノコボム]]></att_1>
+			<att_1_a><![CDATA[一定時間後にバクハツします！]]></att_1_a>
+			<att_1_b><![CDATA[ラインを引いて爆風を防ぎましょう。]]></att_1_b>
+			
+			<att_2><![CDATA[カエルボム]]></att_2>
+			<att_2_a><![CDATA[バクハツ後に毒をのこします！]]></att_2_a>
+			<att_2_b><![CDATA[毒に触れると、チキンの体力が減っちゃいます。]]></att_2_b>
+			
+			<att_3><![CDATA[テントウムシボム]]></att_3>
+			<att_3_a><![CDATA[バクハツ後にさらに子バクダンで２回バクハツ！]]></att_3_a>
+			<att_3_b><![CDATA[子バクダンが次々とバクハツします。]]></att_3_b>
+			
+			<att_4><![CDATA[セントーン]]></att_4>
+			<att_4_a><![CDATA[つぶされるとペッチャンコに！]]></att_4_a>
+			<att_4_b><![CDATA[落ちてくるモノより幅が広いラインを描いて防御！]]></att_4_b>
+			
+			<att_5><![CDATA[メガトーン]]></att_5>
+			<att_5_a><![CDATA[ネバネバで足止めしてから落ちてきます。]]></att_5_a>
+			<att_5_b><![CDATA[粘液で足止めされると大ピンチ！]]></att_5_b>
+			
+			<att_6><![CDATA[オスモウドーン]]></att_6>
+			<att_6_a><![CDATA[１回バウンドして、２回つぶしに来ます。]]></att_6_a>
+			<att_6_b><![CDATA[一回回避しただけで気を抜かないで！]]></att_6_b>
+			
+			<att_7><![CDATA[ガブリーノ]]></att_7>
+			<att_7_a><![CDATA[相手のチキンをガブリンチョしちゃいます。]]></att_7_a>
+			<att_7_b><![CDATA[ラインを描けば、巻きながら伸びていきます。]]></att_7_b>
+			
+			<att_8><![CDATA[サソリーノ]]></att_8>
+			<att_8_a><![CDATA[噛まれると中毒状態になってしまう！]]></att_8_a>
+			<att_8_b><![CDATA[中毒状態になると、さらにダメージを受けやすくなっちゃいます。]]></att_8_b>
+			
+			<att_9><![CDATA[ガブリーノキング]]></att_9>
+			<att_9_a><![CDATA[噛まれると混乱状態になってしまう！]]></att_9_a>
+			<att_9_b><![CDATA[混乱状態になると、キケンに自ら飛び込んでいくようになっちゃいます。]]></att_9_b>
+			
+			<att_10><![CDATA[イナズマ]]></att_10>
+			<att_10_a><![CDATA[イナズマが落ちてきます！]]></att_10_a>
+			<att_10_b><![CDATA[「ひらいしん」を描いてイナズマを回避！]]></att_10_b>
+			
+			<att_11><![CDATA[ダブルイナズマ]]></att_11>
+			<att_11_a><![CDATA[イナズマが２回落ちてきます！]]></att_11_a>
+			<att_11_b><![CDATA[２回イナズマが来るので、気を付けて！]]></att_11_b>
+			
+			<att_12><![CDATA[ビリビリイナズマ]]></att_12>
+			<att_12_a><![CDATA[イナズマのあとに、ビリビリボールが発生！]]></att_12_a>
+			<att_12_b><![CDATA[イナズマのあとに、ビリビリボールが残ってダメージを与え続けます。 ]]></att_12_b>
+			
+			<att_13><![CDATA[ユーフォー]]></att_13>
+			<att_13_a><![CDATA[チキンを誘拐しちゃいます！]]></att_13_a>
+			<att_13_b><![CDATA[横にラインを描いて抑えよう！]]></att_13_b>
+			
+			<att_14><![CDATA[ロボユーフォー]]></att_14>
+			<att_14_a><![CDATA[怪光線でチキンをロボットにしちゃう！]]></att_14_a>
+			<att_14_b><![CDATA[ロボットチキンは、せっかく描いたラインを破壊しちゃいます。]]></att_14_b>
+			
+			<att_15><![CDATA[バーベキューフォー]]></att_15>
+			<att_15_a><![CDATA[レーザービームでチキンに大ダメージ！]]></att_15_a>
+			<att_15_b><![CDATA[横に長いラインを描かないとレーザーまでは防ぎきれません！]]></att_15_b>
+			
+			<att_16><![CDATA[タコパンチ]]></att_16>
+			<att_16_a><![CDATA[チキンを何回も殴ってきます！]]></att_16_a>
+			<att_16_b><![CDATA[横にラインを描いて、パンチを防ごう！]]></att_16_b>
+			
+			<att_17><![CDATA[ベトクラゲ]]></att_17>
+			<att_17_a><![CDATA[ベトベトスライムをなげてきます！]]></att_17_a>
+			<att_17_b><![CDATA[スライムがあなたの視界を妨害します！]]></att_17_b>
+			
+			<att_18><![CDATA[ギガチョッキン]]></att_18>
+			<att_18_a><![CDATA[ウニをなげてきます！]]></att_18_a>
+			<att_18_b><![CDATA[ウニに刺さってもダメージ！]]></att_18_b>
+			
+			<att_19><![CDATA[ゴースト]]></att_19>
+			<att_19_a><![CDATA[チキンのライフを相手にうつしちゃう！]]></att_19_a>
+			<att_19_b><![CDATA[ラインで防げばきえちゃいます。]]></att_19_b>
+			
+			<att_20><![CDATA[ユーレイ]]></att_20>
+			<att_20_a><![CDATA[チキンがユーレイチキンになっちゃいます！]]></att_20_a>
+			<att_20_b><![CDATA[ゴーストチキンは、ラインの影響をうけなくなっちゃいます。]]></att_20_b>
+			
+			<att_21><![CDATA[ヨーカイ]]></att_21>
+			<att_21_a><![CDATA[ヨウカイバクバクがラインを食べちゃいます！]]></att_21_a>
+			<att_21_b><![CDATA[ヨーカイバクバクを止めることはできません。祈りましょう。]]></att_21_b>
+			
+			<!-- Teams -->
+			
+			<nav_teams_pics>7</nav_teams_pics>
+			<nav_teams_name>team_png</nav_teams_name>
+			
+			<teams_unlocked><![CDATA[ ]]><!-- no need text seigaikou--></teams_unlocked>
+			<teams_tutorial><![CDATA[ ]]><!-- no need text seigaikou--></teams_tutorial>
+			<teams_locked><![CDATA[ ]]><!-- no need text seigaikou--></teams_locked>
+			
+			<team_01>てでぃ</team_01>
+			<team_02>まっしゅ</team_02>
+			<team_03>れいんぼー</team_03>
+			<team_04>さたん</team_04>
+			<team_05>いんでぃあん</team_05>
+			<team_06>さふぁり</team_06>
+			<team_07>ちょこれいと</team_07>
+			<team_08>ふらわー</team_08>
+			<team_09>おりえんと</team_09>
+			
+			<!-- Arenas -->
+			
+			<arena_1>シティ</arena_1>
+			<arena_2>ビッグシップ</arena_2>
+			<arena_3>フォレスト</arena_3>
+			
+			<!-- Modi -->
+			
+			<mode_head_1>バトルモード</mode_head_1>
+			<mode_sub_1>先に規定のセット数を取れば勝利！</mode_sub_1>
+			
+			<mode_head_2>タイムバトルモード</mode_head_2>
+			<mode_sub_2>時間内でどれだけＫＯできるかな？</mode_sub_2>
+			
+			<mode_head_3>サバイバルモード</mode_head_3>
+			<mode_sub_3>どこまで生き延びることができるかな？</mode_sub_3>
+			
+		</topic>
+		
+		<!------------------------------------------------------------------------------------------------------------------>
+		<!-- MEDIA -->
+		<!------------------------------------------------------------------------------------------------------------------>
+		
+		<topic label="topic_03">
+			<nav>メディア</nav>
+			
+			<nav_0>イメージ</nav_0>
+			<nav_1>ムービー</nav_1>
+			<nav_2>デザイン</nav_2>
+			
+			<nav_0_pics>13</nav_0_pics>
+			<nav_0_name>scr_jpg</nav_0_name>
+
+			<nav_2_pics>14</nav_2_pics>
+			<nav_2_name>art_png</nav_2_name>
+			
+			<btn_downloadall><![CDATA[<font size="14">全部ダウンロード</font>  ]]></btn_downloadall>
+			<btn_download><![CDATA[<font size="18">ダウンロード]]></btn_download>
+			
+			<video_1>http://www.youtube.com/v/1trymkb3ziA?fs=0&amp;hl=ja_JP&amp;autoplay=1&amp;rel=0</video_1>
+			<video_title_1>ステージ: シティ</video_title_1>
+			
+			<video_2>http://www.youtube.com/v/M7o1z8vnGtE?fs=0&amp;hl=ja_JP&amp;autoplay=1&amp;rel=0</video_2>
+			<video_title_2>ステージ: ビッグシップ</video_title_2>
+			
+			<video_3>http://www.youtube.com/v/ieiu9-09Uus?fs=0&amp;hl=ja_JP&amp;autoplay=1&amp;rel=0</video_3>
+			<video_title_3>ステージ: フォレスト</video_title_3>
+			
+			<video_0>http://www.youtube.com/v/y6b5Z6cWOzg?fs=0&amp;hl=ja_JP&amp;autoplay=0&amp;rel=0</video_0>
+			<video_title_0>(･θ･)ピヨピヨ</video_title_0>
+		</topic>
+
+		<!------------------------------------------------------------------------------------------------------------------>
+		<!-- REVIEWS -->
+		<!------------------------------------------------------------------------------------------------------------------>
+		
+		<topic label="topic_04">
+			<nav>レビュー</nav>
+			
+			<rev_button>続きを読む（英語サイト）</rev_button>
+			
+			<reviews>
+				<rev>
+					<header>rev_nintendolife.png</header>
+					<body><![CDATA[<br />≫ 手軽にアツい多人数プレイを楽しむことができること間違いなし。またソロプレイでも十分楽しめます。 ≪]]></body>
+					<date>Nov 2010</date>
+					<url>http://wiiware.nintendolife.com/reviews/2010/11/chick_chick_boom</url>
+					<score>80</score>
+				</rev>
+				<rev>
+					<header>rev_neurope.png</header>
+					<body><![CDATA[≫ 「チクチクブーン」は、可愛くて親しみのある外見と、アツいバトルシステムを融合することに成功しました。また、１人プレイモードでも十分チャレンジのしがいがある仕上がりになっている。 ≪]]></body>
+					<date>Nov 2010</date>
+					<url>http://www.n-europe.com/review.php?rid=541</url>
+					<score>80</score>
+				</rev>
+				<rev>
+					<header>rev_mmgn.png</header>
+					<body><![CDATA[≫ 「チクチクブーン」は可愛い見た目の下に、洗練されたゲームシステムが隠されている。とにかく、このゲームは独特な体験をプレイヤーに与え、時間がたつのを忘れさせてしまうだろう。 ≪]]></body>
+					<date>Nov 2010</date>
+					<url>http://wii.mmgn.com/Reviews/chick-chick-BOOM-Review</url>
+					<score>90</score>
+				</rev>
+				<rev>
+					<header>rev_bitsnbytes.png</header>
+					<body><![CDATA[≫ 「チクチクブーン」はWiiwareに新たなスタンダードを樹立した。他のデベロッパーにもこのレベルの作品を基準にソフトウェアを開発してほしい。 ≪]]></body>
+					<date>Nov 2010</date>
+					<url>http://bnbgaming.com/2010/11/03/chick-chick-boom-review/</url>
+					<score>90</score>
+				</rev>
+			</reviews>
+			
+		</topic>	
+		
+	</content>
+
+
+	<!------------------------------------------------------------------------------------------------------------------>
+	<!-- GLOBAL 																									  -->
+	<!------------------------------------------------------------------------------------------------------------------>
+
+	<global>
+		<comingsooon>Coming soon</comingsooon>
+		
+	</global>
+	
+	
+	<!------------------------------------------------------------------------------------------------------------------>
+	<!-- FOOTER																										  -->	
+	<!------------------------------------------------------------------------------------------------------------------>
+	
+	<footer>
+		
+		<genre_title>ジャンル</genre_title>
+		<genre>おえかきバトルアクション</genre>
+		<player_title>プレイ人数</player_title>
+		<player>1～4人(Versus + Coop)</player>
+		<points_title>Wiiポイント</points_title>
+		<points>500</points>
+		<platform_title>プラットフォーム</platform_title>
+		<platform><![CDATA[Wii (Wiiウェア)]]></platform>
+		<releasedate_title>配信日</releasedate_title>
+		<releasedate>2010年12月21日</releasedate>	
+	
+		
+		<joinus><![CDATA[Join us on]]></joinus>
+		
+		<fb>http://www.facebook.com/pages/tons-of-bits/118433388195191</fb>
+		<tw>http://twitter.com/tons_of_bits</tw>
+		<yt>http://www.youtube.com/tonsofbits</yt>
+		
+		<tonsofbits>http://www.tons-of-bits.com</tonsofbits>
+		<arcsys>http://www.arcsystemworks.jp</arcsys>
+		<wiiware>http://www.wiiware.com</wiiware>
+		<cero></cero>
+		
+		<disclaimer><![CDATA[c 2010 tons of bits. All rights reserved. Trademarks are property of their respective owners.<br />Nintendo trademarks used under license. WiiWare is available only through the Wii console.<br />Japanese version by ARC SYSTEM WORKS]]></disclaimer>	
+		
+		<legallinks><![CDATA[<a href="http://www.tons-of-bits.com/?c=imprint" target="_blank"><u>Imprint</u></a>  |  <a href="http://www.tons-of-bits.com/?c=contact" target="_blank"><u>Contact</u></a>]]></legallinks>
+	</footer>
+	
+</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
