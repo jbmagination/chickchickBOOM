@@ -5,4 +5,5 @@ Looking for the WiiWare version? Check out the [MarioCube repository](https://ma
 
 ## Missing Files
 If a file is listed here, it means it's either not on the website or not on `archive.org`.
-* `ccb_downloads.zip`
+* `ccb_screenshots.zip`
+* `ccb_artworks.zip`
