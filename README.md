@@ -9,7 +9,7 @@ If a file is listed here, it means it's either not on the website or not on `arc
 * `ccb_artworks.zip`
 
 ## Progress
-The site itself should be fully functional and working. However, the main problem is getting the site to actually work.
+The site itself should be fully functional and working. However, the main problem is getting the site to actually work without being hosted locally.
 
 * You see, I used to use GitHub Pages for this-- and then I needed PHP
 * So then I tried [Vercel](https://vercel.com), which is used on [@Minerscale](https://github.com/minerscale)'s [Mission in Snowdriftland mirror](https://snowdriftland.live)-- and then quickly realized Vercel didn't actually support PHP
