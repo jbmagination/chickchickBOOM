@@ -5,6 +5,11 @@
     }
   },
   "routes": [
-    { "src": "/",  "dest": "/api" }
+    { "src": "/",  "dest": "/api" },
+    { "src": "/img", "dest": "/api/img" },
+    { "src": "/data", "dest": "/api/data" },
+    { "src": "/retro", "dest": "/api/retro" },
+    { "src": "/media", "dest": "/api/media" },
+    { "src": "/misc", "dest": "/api/misc" }
   ]
 }
