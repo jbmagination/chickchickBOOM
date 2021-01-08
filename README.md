@@ -7,7 +7,7 @@ Looking for the WiiWare version? Check out the [MarioCube repository](https://ma
 If a file is listed here, it means it's either not on the website or not on `archive.org`.
 * `ccb_screenshots.zip`
 * `ccb_artworks.zip`
-
+* MiS: Indie Games rewards (those are on my Indie Games mirror, available [here](https://snowdriftindie.jbmagination.com/) under the full version!)
 ## Progress
 The site itself should be fully functional and working. However, the main problem is getting the site to actually work without being hosted locally.
 
