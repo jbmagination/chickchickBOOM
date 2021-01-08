@@ -8,6 +8,11 @@ If a file is listed here, it means it's either not on the website or not on `arc
 * `ccb_screenshots.zip`
 * `ccb_artworks.zip`
 * MiS: Indie Games rewards (those are on my Indie Games mirror, available [here](https://snowdriftindie.jbmagination.com/) under the full version!)
+
+## Custom Additions
+* `index.html` This will allow the game to actually... y'know, run. The `index.php` would work but it uses *severely* outdated PHP functions.
+* `otherfiles/` is a folder with things that I think should be archived here, but aren't actually used currently by the website.
+
 ## Progress
 The site itself should be fully functional and working. However, the main problem is getting the site to actually work without being hosted locally.
 
